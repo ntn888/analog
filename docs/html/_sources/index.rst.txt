@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Analog Filters's documentation!
+Welcome to Analog Filters' documentation!
 ==========================================
 
 .. toctree::
@@ -13,7 +13,9 @@ Welcome to Analog Filters's documentation!
    fm/welcome
 
    dc/intro
-   dc/fundamentals
+   ac/intro
+   sm/intro
+   op/intro
 
 Indices and tables
 ==================

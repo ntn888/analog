@@ -27,7 +27,6 @@ $t	docs/html/_static/jquery.js	/^!function(e,t){"use strict";"object"==typeof mo
 .align-default	docs/html/_static/basic.css	/^.align-default {$/;"	c
 .align-left	docs/html/_static/basic.css	/^.align-left {$/;"	c
 .align-right	docs/html/_static/basic.css	/^.align-right {$/;"	c
-.bodywrapper	docs/html/_static/alabaster.css	/^    .bodywrapper {$/;"	c
 .btn	docs/html/_static/css/theme.css	/^ *\/@font-face{font-family:FontAwesome;src:url(fonts\/fontawesome-webfont.eot?674f50d287a8c48dc1/;"	c
 .btn	docs/html/_static/css/theme.css	/^html{box-sizing:border-box}*,:after,:before{box-sizing:inherit}article,aside,details,figcaption,/;"	c
 .btn .fa	docs/html/_static/css/theme.css	/^ *\/@font-face{font-family:FontAwesome;src:url(fonts\/fontawesome-webfont.eot?674f50d287a8c48dc1/;"	c
@@ -142,7 +141,6 @@ $t	docs/html/_static/jquery.js	/^!function(e,t){"use strict";"object"==typeof mo
 .clearfix:after	docs/html/_static/css/theme.css	/^html{box-sizing:border-box}*,:after,:before{box-sizing:inherit}article,aside,details,figcaption,/;"	c
 .clearfix:before	docs/html/_static/css/badge_only.css	/^.fa:before{-webkit-font-smoothing:antialiased}.clearfix{*zoom:1}.clearfix:after,.clearfix:before/;"	c
 .clearfix:before	docs/html/_static/css/theme.css	/^html{box-sizing:border-box}*,:after,:before{box-sizing:inherit}article,aside,details,figcaption,/;"	c
-.document	docs/html/_static/alabaster.css	/^    .document {$/;"	c
 .fa	docs/html/_static/css/theme.css	/^ *\/@font-face{font-family:FontAwesome;src:url(fonts\/fontawesome-webfont.eot?674f50d287a8c48dc1/;"	c
 .fa-2x	docs/html/_static/css/theme.css	/^ *\/@font-face{font-family:FontAwesome;src:url(fonts\/fontawesome-webfont.eot?674f50d287a8c48dc1/;"	c
 .fa-3x	docs/html/_static/css/theme.css	/^ *\/@font-face{font-family:FontAwesome;src:url(fonts\/fontawesome-webfont.eot?674f50d287a8c48dc1/;"	c
@@ -970,7 +968,6 @@ $t	docs/html/_static/jquery.js	/^!function(e,t){"use strict";"object"==typeof mo
 .fa:before	docs/html/_static/css/theme.css	/^html{box-sizing:border-box}*,:after,:before{box-sizing:inherit}article,aside,details,figcaption,/;"	c
 .field-list p	docs/html/_static/basic.css	/^.field-list p {$/;"	s
 .field-list ul	docs/html/_static/basic.css	/^.field-list ul {$/;"	s
-.field-name	docs/html/_static/alabaster.css	/^.field-name {$/;"	c
 .field-name	docs/html/_static/basic.css	/^.field-name {$/;"	c
 .figure.align-center	docs/html/_static/basic.css	/^img.align-center, figure.align-center, .figure.align-center, object.align-center {$/;"	c
 .figure.align-default	docs/html/_static/basic.css	/^img.align-default, figure.align-default, .figure.align-default {$/;"	c
@@ -979,14 +976,11 @@ $t	docs/html/_static/jquery.js	/^!function(e,t){"use strict";"object"==typeof mo
 .first	docs/html/_static/basic.css	/^.first {$/;"	c
 .float-left	docs/html/_static/css/theme.css	/^ *\/@font-face{font-family:FontAwesome;src:url(fonts\/fontawesome-webfont.eot?674f50d287a8c48dc1/;"	c
 .float-right	docs/html/_static/css/theme.css	/^ *\/@font-face{font-family:FontAwesome;src:url(fonts\/fontawesome-webfont.eot?674f50d287a8c48dc1/;"	c
-.footer	docs/html/_static/alabaster.css	/^    .footer {$/;"	c
 .footnote:target	docs/html/_static/basic.css	/^.footnote:target  {$/;"	c
 .full-width	docs/html/_static/css/theme.css	/^ *\/@font-face{font-family:FontAwesome;src:url(fonts\/fontawesome-webfont.eot?674f50d287a8c48dc1/;"	c
 .genindextable li>ul	docs/html/_static/css/theme.css	/^ *\/@font-face{font-family:FontAwesome;src:url(fonts\/fontawesome-webfont.eot?674f50d287a8c48dc1/;"	s
-.github	docs/html/_static/alabaster.css	/^    .github {$/;"	c
 .guilabel	docs/html/_static/basic.css	/^.guilabel, .menuselection {$/;"	c
 .hidden	docs/html/_static/css/theme.css	/^html{box-sizing:border-box}*,:after,:before{box-sizing:inherit}article,aside,details,figcaption,/;"	c
-.highlight	docs/html/_static/alabaster.css	/^dt:target, .highlight {$/;"	c
 .highlight	docs/html/_static/pygments.css	/^.highlight { background: #f8f8f8; }$/;"	c
 .highlight .bp	docs/html/_static/pygments.css	/^.highlight .bp { color: #008000 } \/* Name.Builtin.Pseudo *\/$/;"	c
 .highlight .c	docs/html/_static/pygments.css	/^.highlight .c { color: #3D7B7B; font-style: italic } \/* Comment *\/$/;"	c
@@ -1057,7 +1051,6 @@ $t	docs/html/_static/jquery.js	/^!function(e,t){"use strict";"object"==typeof mo
 .highlight .vi	docs/html/_static/pygments.css	/^.highlight .vi { color: #19177C } \/* Name.Variable.Instance *\/$/;"	c
 .highlight .vm	docs/html/_static/pygments.css	/^.highlight .vm { color: #19177C } \/* Name.Variable.Magic *\/$/;"	c
 .highlight .w	docs/html/_static/pygments.css	/^.highlight .w { color: #bbbbbb } \/* Text.Whitespace *\/$/;"	c
-.hll	docs/html/_static/alabaster.css	/^.hll {$/;"	c
 .icon	docs/html/_static/css/theme.css	/^ *\/@font-face{font-family:FontAwesome;src:url(fonts\/fontawesome-webfont.eot?674f50d287a8c48dc1/;"	c
 .icon-bitbucket:before	docs/html/_static/css/theme.css	/^ *\/@font-face{font-family:FontAwesome;src:url(fonts\/fontawesome-webfont.eot?674f50d287a8c48dc1/;"	c
 .icon-book:before	docs/html/_static/css/badge_only.css	/^.fa:before{-webkit-font-smoothing:antialiased}.clearfix{*zoom:1}.clearfix:after,.clearfix:before/;"	c
@@ -1146,19 +1139,12 @@ $t	docs/html/_static/jquery.js	/^!function(e,t){"use strict";"object"==typeof mo
 .nav .wy-menu-vertical li button.toctree-expand	docs/html/_static/css/theme.css	/^ *\/@font-face{font-family:FontAwesome;src:url(fonts\/fontawesome-webfont.eot?674f50d287a8c48dc1/;"	c
 .nav .wy-menu-vertical li.current>a button.toctree-expand	docs/html/_static/css/theme.css	/^ *\/@font-face{font-family:FontAwesome;src:url(fonts\/fontawesome-webfont.eot?674f50d287a8c48dc1/;"	c
 .nav .wy-menu-vertical li.on a button.toctree-expand	docs/html/_static/css/theme.css	/^ *\/@font-face{font-family:FontAwesome;src:url(fonts\/fontawesome-webfont.eot?674f50d287a8c48dc1/;"	c
-.note code	docs/html/_static/classic.css	/^.note code {$/;"	s
 .optional	docs/html/_static/basic.css	/^.optional {$/;"	c
 .pull-left	docs/html/_static/css/theme.css	/^ *\/@font-face{font-family:FontAwesome;src:url(fonts\/fontawesome-webfont.eot?674f50d287a8c48dc1/;"	c
 .pull-left.icon	docs/html/_static/css/theme.css	/^ *\/@font-face{font-family:FontAwesome;src:url(fonts\/fontawesome-webfont.eot?674f50d287a8c48dc1/;"	c
 .pull-right	docs/html/_static/css/theme.css	/^ *\/@font-face{font-family:FontAwesome;src:url(fonts\/fontawesome-webfont.eot?674f50d287a8c48dc1/;"	c
 .pull-right.icon	docs/html/_static/css/theme.css	/^ *\/@font-face{font-family:FontAwesome;src:url(fonts\/fontawesome-webfont.eot?674f50d287a8c48dc1/;"	c
-.related	docs/html/_static/alabaster.css	/^.related {$/;"	c
-.related li	docs/html/_static/alabaster.css	/^.related li {$/;"	s
-.related ul	docs/html/_static/alabaster.css	/^.related ul {$/;"	s
-.related.bottom	docs/html/_static/alabaster.css	/^.related.bottom {$/;"	c
-.related.top	docs/html/_static/alabaster.css	/^.related.top {$/;"	c
 .relative	docs/html/_static/css/theme.css	/^html{box-sizing:border-box}*,:after,:before{box-sizing:inherit}article,aside,details,figcaption,/;"	c
-.revsys-inline	docs/html/_static/alabaster.css	/^.revsys-inline {$/;"	c
 .rotate-180	docs/html/_static/css/theme.css	/^ *\/@font-face{font-family:FontAwesome;src:url(fonts\/fontawesome-webfont.eot?674f50d287a8c48dc1/;"	c
 .rotate-270	docs/html/_static/css/theme.css	/^ *\/@font-face{font-family:FontAwesome;src:url(fonts\/fontawesome-webfont.eot?674f50d287a8c48dc1/;"	c
 .rotate-90	docs/html/_static/css/theme.css	/^ *\/@font-face{font-family:FontAwesome;src:url(fonts\/fontawesome-webfont.eot?674f50d287a8c48dc1/;"	c
@@ -2027,7 +2013,6 @@ $t	docs/html/_static/jquery.js	/^!function(e,t){"use strict";"object"==typeof mo
 .rst-versions.shift-up	docs/html/_static/css/theme.css	/^ *\/@font-face{font-family:FontAwesome;src:url(fonts\/fontawesome-webfont.eot?674f50d287a8c48dc1/;"	c
 .rst-versions.shift-up .rst-other-versions	docs/html/_static/css/badge_only.css	/^.fa:before{-webkit-font-smoothing:antialiased}.clearfix{*zoom:1}.clearfix:after,.clearfix:before/;"	c
 .rst-versions.shift-up .rst-other-versions	docs/html/_static/css/theme.css	/^ *\/@font-face{font-family:FontAwesome;src:url(fonts\/fontawesome-webfont.eot?674f50d287a8c48dc1/;"	c
-.rtd_doc_footer	docs/html/_static/alabaster.css	/^    .rtd_doc_footer {$/;"	c
 .sig	docs/html/_static/basic.css	/^.sig {$/;"	c
 .sig-inline.c-texpr	docs/html/_static/basic.css	/^.sig-inline.c-texpr,$/;"	c
 .sig-inline.cpp-texpr	docs/html/_static/basic.css	/^.sig-inline.cpp-texpr {$/;"	c
@@ -2053,12 +2038,10 @@ $t	docs/html/_static/jquery.js	/^!function(e,t){"use strict";"object"==typeof mo
 .tablet-hide	docs/html/_static/css/theme.css	/^ *\/@font-face{font-family:FontAwesome;src:url(fonts\/fontawesome-webfont.eot?674f50d287a8c48dc1/;"	c
 .versionmodified	docs/html/_static/basic.css	/^.versionmodified {$/;"	c
 .viewcode-back	docs/html/_static/basic.css	/^.viewcode-back {$/;"	c
-.viewcode-back	docs/html/_static/classic.css	/^.viewcode-back {$/;"	c
 .viewcode-link	docs/html/_static/basic.css	/^.viewcode-link {$/;"	c
 .visuallyhidden	docs/html/_static/css/theme.css	/^html{box-sizing:border-box}*,:after,:before{box-sizing:inherit}article,aside,details,figcaption,/;"	c
 .visuallyhidden.focusable:active	docs/html/_static/css/theme.css	/^html{box-sizing:border-box}*,:after,:before{box-sizing:inherit}article,aside,details,figcaption,/;"	c
 .visuallyhidden.focusable:focus	docs/html/_static/css/theme.css	/^html{box-sizing:border-box}*,:after,:before{box-sizing:inherit}article,aside,details,figcaption,/;"	c
-.warning code	docs/html/_static/classic.css	/^.warning code {$/;"	s
 .wy-affix	docs/html/_static/css/theme.css	/^ *\/@font-face{font-family:FontAwesome;src:url(fonts\/fontawesome-webfont.eot?674f50d287a8c48dc1/;"	c
 .wy-alert	docs/html/_static/css/theme.css	/^ *\/@font-face{font-family:FontAwesome;src:url(fonts\/fontawesome-webfont.eot?674f50d287a8c48dc1/;"	c
 .wy-alert	docs/html/_static/css/theme.css	/^html{box-sizing:border-box}*,:after,:before{box-sizing:inherit}article,aside,details,figcaption,/;"	c
@@ -2504,8 +2487,6 @@ $t	docs/html/_static/jquery.js	/^!function(e,t){"use strict";"object"==typeof mo
 .wy-tray-container li.wy-tray-item-warning	docs/html/_static/css/theme.css	/^ *\/@font-face{font-family:FontAwesome;src:url(fonts\/fontawesome-webfont.eot?674f50d287a8c48dc1/;"	c
 0	docs/html/_static/searchtools.js	/^    objPrio: {0:  15,   \/\/ used to be importantResults$/;"	p	class:Scorer.objPrio
 1	docs/html/_static/searchtools.js	/^              1:  5,   \/\/ used to be objectResults$/;"	p	class:Scorer.objPrio
-1.DC Electrical Circuit Analysis	dc/intro.rst	/^1.DC Electrical Circuit Analysis$/;"	c
-1.DC Electrical Circuit Analysis	docs/html/dc/intro.html	/^<h1>1.DC Electrical Circuit Analysis<a class="headerlink" href="#dc-electrical-circuit-analysis"/;"	h
 2	docs/html/_static/searchtools.js	/^              2: -5},  \/\/ used to be unimportantResults$/;"	p	class:Scorer.objPrio
 :after	docs/html/_static/css/theme.css	/^html{box-sizing:border-box}*,:after,:before{box-sizing:inherit}article,aside,details,figcaption,/;"	s
 :before	docs/html/_static/css/theme.css	/^html{box-sizing:border-box}*,:after,:before{box-sizing:inherit}article,aside,details,figcaption,/;"	s
@@ -2523,6 +2504,8 @@ $t	docs/html/_static/jquery.js	/^!function(e,t){"use strict";"object"==typeof mo
 A	docs/html/_static/jquery.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f
 A	docs/html/_static/js/html5shiv-printshiv.min.js	/^!function(a,b){function c(a,b){var c=a.createElement("p"),d=a.getElementsByTagName("head")[0]||a/;"	v
 A	docs/html/_static/underscore.js	/^var n="1.13.1",r="object"==typeof self&&self.self===self&&self||"object"==typeof global&&global./;"	f	function:AnonymousFunctiona78fb77c0200
+AC Electrical Circuit Analysis	ac/intro.rst	/^AC Electrical Circuit Analysis$/;"	c
+AC Electrical Circuit Analysis	docs/html/ac/intro.html	/^<h1>AC Electrical Circuit Analysis<a class="headerlink" href="#ac-electrical-circuit-analysis" t/;"	h
 Ae	docs/html/_static/jquery.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f
 An	docs/html/_static/underscore.js	/^var n="1.13.1",r="object"==typeof self&&self.self===self&&self||"object"==typeof global&&global./;"	f	function:AnonymousFunctiona78fb77c0200
 Animation	docs/html/_static/jquery-3.5.1.js	/^function Animation( elem, properties, options ) {$/;"	f
@@ -2977,9 +2960,6 @@ AnonymousFunction8329ea890800	docs/html/_static/doctools.js	/^    var togglers =
 AnonymousFunction8329ea890900	docs/html/_static/doctools.js	/^    $.each(DOCUMENTATION_OPTIONS.URL_ROOT.split(\/\\\/\/), function() {$/;"	f
 AnonymousFunction8329ea890a00	docs/html/_static/doctools.js	/^    $(document).keydown(function(event) {$/;"	f
 AnonymousFunction8329ea890b00	docs/html/_static/doctools.js	/^$(document).ready(function() {$/;"	f
-AnonymousFunction91e7e51c0100	docs/html/_static/sidebar.js	/^$(function() {$/;"	f
-AnonymousFunction91e7e51c0200	docs/html/_static/sidebar.js	/^      function () {$/;"	f
-AnonymousFunction91e7e51c0300	docs/html/_static/sidebar.js	/^      function () {$/;"	f
 AnonymousFunctiona233c2020100	docs/html/_static/jquery.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f
 AnonymousFunctiona233c2020200	docs/html/_static/jquery.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f
 AnonymousFunctiona233c2020300	docs/html/_static/jquery.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f
@@ -3604,6 +3584,8 @@ Ce	docs/html/_static/jquery.js	/^!function(e,t){"use strict";"object"==typeof mo
 Ctor	docs/html/_static/underscore-1.13.1.js	/^    Ctor.prototype = prototype;$/;"	c
 D	docs/html/_static/jquery.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f
 D	docs/html/_static/jquery.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f	function:AnonymousFunctiona233c2022000
+DC Electrical Circuit Analysis	dc/intro.rst	/^DC Electrical Circuit Analysis$/;"	c
+DC Electrical Circuit Analysis	docs/html/dc/intro.html	/^<h1>DC Electrical Circuit Analysis<a class="headerlink" href="#dc-electrical-circuit-analysis" t/;"	h
 DOCUMENTATION_OPTIONS	docs/html/_static/documentation_options.js	/^var DOCUMENTATION_OPTIONS = {$/;"	c
 DOMEval	docs/html/_static/jquery-3.5.1.js	/^	function DOMEval( code, node, doc ) {$/;"	f	function:AnonymousFunction015baf040100
 Data	docs/html/_static/jquery-3.5.1.js	/^function Data() {$/;"	c
@@ -3651,6 +3633,8 @@ Nn	docs/html/_static/underscore.js	/^var n="1.13.1",r="object"==typeof self&&sel
 Nr	docs/html/_static/underscore.js	/^var n="1.13.1",r="object"==typeof self&&self.self===self&&self||"object"==typeof global&&global./;"	f	function:AnonymousFunctiona78fb77c0200
 O	docs/html/_static/jquery.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f
 Oe	docs/html/_static/jquery.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f
+Operational Amplifiers	op/intro.rst	/^Operational Amplifiers$/;"	c
+Operational Amplifiers	docs/html/op/intro.html	/^<h1>Operational Amplifiers<a class="headerlink" href="#operational-amplifiers" title="Permalink /;"	h
 Or	docs/html/_static/underscore.js	/^var n="1.13.1",r="object"==typeof self&&self.self===self&&self||"object"==typeof global&&global./;"	f	function:AnonymousFunctiona78fb77c0200
 PLURAL_EXPR	docs/html/_static/doctools.js	/^  PLURAL_EXPR : function(n) { return n === 1 ? 0 : 1; },$/;"	m	class:Documentation
 Pe	docs/html/_static/jquery.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f
@@ -3668,6 +3652,8 @@ SPHINXOPTS	Makefile	/^SPHINXOPTS    ?=$/;"	m
 Scorer	docs/html/_static/searchtools.js	/^  var Scorer = {$/;"	c
 Se	docs/html/_static/jquery.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f
 Search	docs/html/_static/searchtools.js	/^var Search = {$/;"	c
+Semiconductor Devices	sm/intro.rst	/^Semiconductor Devices$/;"	c
+Semiconductor Devices	docs/html/sm/intro.html	/^<h1>Semiconductor Devices<a class="headerlink" href="#semiconductor-devices" title="Permalink to/;"	h
 Sizzle	docs/html/_static/jquery-3.5.1.js	/^function Sizzle( selector, context, results, seed ) {$/;"	f
 Sr	docs/html/_static/underscore.js	/^var n="1.13.1",r="object"==typeof self&&self.self===self&&self||"object"==typeof global&&global./;"	f	function:AnonymousFunctiona78fb77c0200
 Stemmer	docs/html/_static/language_data.js	/^var Stemmer = function() {$/;"	c
@@ -3683,8 +3669,8 @@ URL_ROOT	docs/html/_static/documentation_options.js	/^    URL_ROOT: document.get
 Un	docs/html/_static/underscore.js	/^var n="1.13.1",r="object"==typeof self&&self.self===self&&self||"object"==typeof global&&global./;"	f	function:AnonymousFunctiona78fb77c0200
 VERSION	docs/html/_static/documentation_options.js	/^    VERSION: '0.01',$/;"	p	class:DOCUMENTATION_OPTIONS
 Vn	docs/html/_static/underscore.js	/^var n="1.13.1",r="object"==typeof self&&self.self===self&&self||"object"==typeof global&&global./;"	f	function:AnonymousFunctiona78fb77c0200
-Welcome to Analog Filters's documentation!	index.rst	/^Welcome to Analog Filters's documentation!$/;"	c
-Welcome to Analog Filters’s documentation!	docs/html/index.html	/^<h1>Welcome to Analog Filters’s documentation!<a class="headerlink" href="#welcome-to-analog-f/;"	h
+Welcome to Analog Filters' documentation!	index.rst	/^Welcome to Analog Filters' documentation!$/;"	c
+Welcome to Analog Filters’ documentation!	docs/html/index.html	/^<h1>Welcome to Analog Filters’ documentation!<a class="headerlink" href="#welcome-to-analog-fi/;"	h
 Wn	docs/html/_static/underscore.js	/^var n="1.13.1",r="object"==typeof self&&self.self===self&&self||"object"==typeof global&&global./;"	f	function:AnonymousFunctiona78fb77c0200
 X	docs/html/_static/jquery.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f
 Xe	docs/html/_static/jquery.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f
@@ -3705,8 +3691,6 @@ _pulse_status	docs/html/_static/searchtools.js	/^  _pulse_status : -1,$/;"	p	cla
 _queued_query	docs/html/_static/searchtools.js	/^  _queued_query : null,$/;"	p	class:Search
 _r	docs/html/_static/underscore.js	/^var n="1.13.1",r="object"==typeof self&&self.self===self&&self||"object"==typeof global&&global./;"	f	function:AnonymousFunctiona78fb77c0200
 `	docs/html/_static/underscore.js	/^var n="1.13.1",r="object"==typeof self&&self.self===self&&self||"object"==typeof global&&global./;"	p	class:AnonymousFunctiona78fb77c0200.$n
-a	docs/html/_static/alabaster.css	/^a {$/;"	s
-a	docs/html/_static/classic.css	/^a {$/;"	s
 a	docs/html/_static/css/theme.css	/^ *\/@font-face{font-family:FontAwesome;src:url(fonts\/fontawesome-webfont.eot?674f50d287a8c48dc1/;"	s
 a	docs/html/_static/css/theme.css	/^html{box-sizing:border-box}*,:after,:before{box-sizing:inherit}article,aside,details,figcaption,/;"	s
 a	docs/html/_static/jquery.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	c	class:AnonymousFunctiona233c202ad00
@@ -3737,34 +3721,18 @@ a .rst-content tt	docs/html/_static/css/theme.css	/^ *\/@font-face{font-family:F
 a .rst-content tt.download span:first-child	docs/html/_static/css/theme.css	/^ *\/@font-face{font-family:FontAwesome;src:url(fonts\/fontawesome-webfont.eot?674f50d287a8c48dc1/;"	s
 a .wy-menu-vertical li button.toctree-expand	docs/html/_static/css/theme.css	/^ *\/@font-face{font-family:FontAwesome;src:url(fonts\/fontawesome-webfont.eot?674f50d287a8c48dc1/;"	c
 a code	docs/html/_static/basic.css	/^code.xref, a code {$/;"	s
-a tt	docs/html/_static/alabaster.css	/^tt.xref, code.xref, a tt {$/;"	s
 a.biglink	docs/html/_static/basic.css	/^a.biglink {$/;"	c
 a.brackets:after	docs/html/_static/basic.css	/^a.brackets:after,$/;"	c
 a.brackets:before	docs/html/_static/basic.css	/^a.brackets:before,$/;"	c
-a.footnote-reference	docs/html/_static/alabaster.css	/^a.footnote-reference {$/;"	c
-a.footnote-reference:hover	docs/html/_static/alabaster.css	/^a.footnote-reference:hover {$/;"	c
-a.headerlink	docs/html/_static/alabaster.css	/^a.headerlink {$/;"	c
 a.headerlink	docs/html/_static/basic.css	/^a.headerlink {$/;"	c
-a.headerlink	docs/html/_static/classic.css	/^a.headerlink {$/;"	c
-a.headerlink:hover	docs/html/_static/alabaster.css	/^a.headerlink:hover {$/;"	c
-a.headerlink:hover	docs/html/_static/classic.css	/^a.headerlink:hover {$/;"	c
-a.image-reference	docs/html/_static/alabaster.css	/^a.image-reference, a.image-reference:hover {$/;"	c
-a.image-reference:hover	docs/html/_static/alabaster.css	/^a.image-reference, a.image-reference:hover {$/;"	c
-a.reference	docs/html/_static/alabaster.css	/^a.reference {$/;"	c
-a.reference:hover	docs/html/_static/alabaster.css	/^a.reference:hover {$/;"	c
 a.wy-text-danger:hover	docs/html/_static/css/theme.css	/^ *\/@font-face{font-family:FontAwesome;src:url(fonts\/fontawesome-webfont.eot?674f50d287a8c48dc1/;"	c
 a.wy-text-info:hover	docs/html/_static/css/theme.css	/^ *\/@font-face{font-family:FontAwesome;src:url(fonts\/fontawesome-webfont.eot?674f50d287a8c48dc1/;"	c
 a.wy-text-neutral:hover	docs/html/_static/css/theme.css	/^ *\/@font-face{font-family:FontAwesome;src:url(fonts\/fontawesome-webfont.eot?674f50d287a8c48dc1/;"	c
 a.wy-text-success:hover	docs/html/_static/css/theme.css	/^ *\/@font-face{font-family:FontAwesome;src:url(fonts\/fontawesome-webfont.eot?674f50d287a8c48dc1/;"	c
 a.wy-text-warning:hover	docs/html/_static/css/theme.css	/^ *\/@font-face{font-family:FontAwesome;src:url(fonts\/fontawesome-webfont.eot?674f50d287a8c48dc1/;"	c
 a:active	docs/html/_static/css/theme.css	/^html{box-sizing:border-box}*,:after,:before{box-sizing:inherit}article,aside,details,figcaption,/;"	s
-a:hover	docs/html/_static/alabaster.css	/^a:hover {$/;"	s
-a:hover	docs/html/_static/classic.css	/^a:hover {$/;"	s
 a:hover	docs/html/_static/css/theme.css	/^ *\/@font-face{font-family:FontAwesome;src:url(fonts\/fontawesome-webfont.eot?674f50d287a8c48dc1/;"	s
 a:hover	docs/html/_static/css/theme.css	/^html{box-sizing:border-box}*,:after,:before{box-sizing:inherit}article,aside,details,figcaption,/;"	s
-a:hover code	docs/html/_static/alabaster.css	/^a:hover tt, a:hover code {$/;"	s
-a:hover tt	docs/html/_static/alabaster.css	/^a:hover tt, a:hover code {$/;"	s
-a:visited	docs/html/_static/classic.css	/^a:visited {$/;"	s
 a:visited	docs/html/_static/css/theme.css	/^ *\/@font-face{font-family:FontAwesome;src:url(fonts\/fontawesome-webfont.eot?674f50d287a8c48dc1/;"	s
 a:visited	docs/html/_static/css/theme.css	/^html{box-sizing:border-box}*,:after,:before{box-sizing:inherit}article,aside,details,figcaption,/;"	s
 a[href^="#"] :after	docs/html/_static/css/theme.css	/^html{box-sizing:border-box}*,:after,:before{box-sizing:inherit}article,aside,details,figcaption,/;"	s
@@ -3773,6 +3741,7 @@ abbr	docs/html/_static/basic.css	/^abbr, acronym {$/;"	s
 abbr[title]	docs/html/_static/css/theme.css	/^html{box-sizing:border-box}*,:after,:before{box-sizing:inherit}article,aside,details,figcaption,/;"	s
 abort	docs/html/_static/jquery-3.5.1.js	/^				abort: function( statusText ) {$/;"	m	class:AnonymousFunction015baf0417200.jqXHR
 abort	docs/html/_static/jquery.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	m	class:AnonymousFunctiona233c20218500.T
+ac-electrical-circuit-analysis	docs/html/ac/intro.html	/^  <div class="section" id="ac-electrical-circuit-analysis">$/;"	I
 acronym	docs/html/_static/basic.css	/^abbr, acronym {$/;"	s
 add	docs/html/_static/jquery-3.5.1.js	/^		add = function( key, valueOrFunction ) {$/;"	f	function:AnonymousFunction015baf0416700
 addCombinator	docs/html/_static/jquery-3.5.1.js	/^function addCombinator( matcher, combinator, base ) {$/;"	f
@@ -3783,7 +3752,6 @@ addGetHookIf	docs/html/_static/jquery-3.5.1.js	/^function addGetHookIf( conditio
 addHandle	docs/html/_static/jquery-3.5.1.js	/^function addHandle( attrs, handler ) {$/;"	f
 addToPrefiltersOrTransports	docs/html/_static/jquery-3.5.1.js	/^function addToPrefiltersOrTransports( structure ) {$/;"	f
 addTranslations	docs/html/_static/doctools.js	/^  addTranslations : function(catalog) {$/;"	m	class:Documentation
-add_sidebar_button	docs/html/_static/sidebar.js	/^  function add_sidebar_button() {$/;"	f	function:AnonymousFunction91e7e51c0100
 adjustCSS	docs/html/_static/jquery-3.5.1.js	/^function adjustCSS( elem, prop, valueParts, tween ) {$/;"	f
 adoptValue	docs/html/_static/jquery-3.5.1.js	/^function adoptValue( value, resolve, reject, noValue ) {$/;"	f
 after	docs/html/_static/underscore-1.13.1.js	/^  function after(times, func) {$/;"	f	function:AnonymousFunctionc479a98b0200
@@ -3839,14 +3807,9 @@ biliti	docs/html/_static/language_data.js	/^    biliti: 'ble',$/;"	p	class:Stemm
 bindType	docs/html/_static/jquery-3.5.1.js	/^		bindType: fix,$/;"	p	class:jQuery.event.special
 bindType	docs/html/_static/jquery.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	p	class:S.event.special
 bli	docs/html/_static/language_data.js	/^    bli: 'ble',$/;"	p	class:Stemmer.step2list
-blockquote	docs/html/_static/alabaster.css	/^blockquote {$/;"	s
 blockquote	docs/html/_static/basic.css	/^div.admonition, div.topic, blockquote {$/;"	s
 blockquote	docs/html/_static/css/theme.css	/^html{box-sizing:border-box}*,:after,:before{box-sizing:inherit}article,aside,details,figcaption,/;"	s
-blockquote pre	docs/html/_static/alabaster.css	/^dl pre, blockquote pre, li pre {$/;"	s
 blockquote::after	docs/html/_static/basic.css	/^blockquote::after {$/;"	s
-body	docs/html/_static/alabaster.css	/^    body {$/;"	s
-body	docs/html/_static/alabaster.css	/^body {$/;"	s
-body	docs/html/_static/classic.css	/^body {$/;"	s
 body	docs/html/_static/css/theme.css	/^ *\/@font-face{font-family:FontAwesome;src:url(fonts\/fontawesome-webfont.eot?674f50d287a8c48dc1/;"	s
 body	docs/html/_static/css/theme.css	/^html{box-sizing:border-box}*,:after,:before{box-sizing:inherit}article,aside,details,figcaption,/;"	s
 bound	docs/html/_static/underscore-1.13.1.js	/^    var bound = function() {$/;"	f	function:AnonymousFunctionc479a98b0200.AnonymousFunctionc479a98b1600
@@ -3881,21 +3844,13 @@ chunk	docs/html/_static/underscore-1.13.1.js	/^  function chunk(array, count) {$
 classesToArray	docs/html/_static/jquery-3.5.1.js	/^function classesToArray( value ) {$/;"	f
 clone	docs/html/_static/underscore-1.13.1.js	/^  function clone(obj) {$/;"	f	function:AnonymousFunctionc479a98b0200
 cloneCopyEvent	docs/html/_static/jquery-3.5.1.js	/^function cloneCopyEvent( src, dest ) {$/;"	f
-code	docs/html/_static/alabaster.css	/^pre, tt, code {$/;"	s
-code	docs/html/_static/alabaster.css	/^tt, code {$/;"	s
-code	docs/html/_static/classic.css	/^code {$/;"	s
 code	docs/html/_static/css/theme.css	/^ *\/@font-face{font-family:FontAwesome;src:url(fonts\/fontawesome-webfont.eot?674f50d287a8c48dc1/;"	s
 code	docs/html/_static/css/theme.css	/^html{box-sizing:border-box}*,:after,:before{box-sizing:inherit}article,aside,details,figcaption,/;"	s
 code.code-large	docs/html/_static/css/theme.css	/^ *\/@font-face{font-family:FontAwesome;src:url(fonts\/fontawesome-webfont.eot?674f50d287a8c48dc1/;"	c
-code.descclassname	docs/html/_static/alabaster.css	/^tt.descname, tt.descclassname, code.descname, code.descclassname {$/;"	c
 code.descclassname	docs/html/_static/basic.css	/^.sig-prename, code.descclassname {$/;"	c
-code.descname	docs/html/_static/alabaster.css	/^tt.descname, code.descname {$/;"	c
-code.descname	docs/html/_static/alabaster.css	/^tt.descname, tt.descclassname, code.descname, code.descclassname {$/;"	c
 code.descname	docs/html/_static/basic.css	/^.sig-name, code.descname {$/;"	c
 code.descname	docs/html/_static/basic.css	/^code.descname {$/;"	c
-code.xref	docs/html/_static/alabaster.css	/^tt.xref, code.xref, a tt {$/;"	c
 code.xref	docs/html/_static/basic.css	/^code.xref, a code {$/;"	c
-collapse_sidebar	docs/html/_static/sidebar.js	/^  function collapse_sidebar() {$/;"	f	function:AnonymousFunction91e7e51c0100
 collectNonEnumProps	docs/html/_static/underscore-1.13.1.js	/^  function collectNonEnumProps(obj, keys) {$/;"	f	function:AnonymousFunctionc479a98b0200
 compact	docs/html/_static/underscore-1.13.1.js	/^  function compact(array) {$/;"	f	function:AnonymousFunctionc479a98b0200
 complete	docs/html/_static/jquery-3.5.1.js	/^	opt.complete = function() {$/;"	f	function:opt
@@ -3962,226 +3917,100 @@ dfn	docs/html/_static/css/theme.css	/^html{box-sizing:border-box}*,:after,:befor
 disableScript	docs/html/_static/jquery-3.5.1.js	/^function disableScript( elem ) {$/;"	f
 disabled	docs/html/_static/css/theme.css	/^ *\/@font-face{font-family:FontAwesome;src:url(fonts\/fontawesome-webfont.eot?674f50d287a8c48dc1/;"	s
 displayNextItem	docs/html/_static/searchtools.js	/^    function displayNextItem() {$/;"	f	function:Search.query
-div#changelog > div.section > ul > li > p:only-child	docs/html/_static/alabaster.css	/^div#changelog > div.section > ul > li > p:only-child {$/;"	s
-div.admonition	docs/html/_static/alabaster.css	/^div.admonition {$/;"	c
 div.admonition	docs/html/_static/basic.css	/^div.admonition {$/;"	c
 div.admonition	docs/html/_static/basic.css	/^div.admonition, div.topic, blockquote {$/;"	c
 div.admonition > :last-child	docs/html/_static/basic.css	/^div.admonition > :last-child {$/;"	s
-div.admonition a tt	docs/html/_static/alabaster.css	/^div.admonition tt.xref, div.admonition code.xref, div.admonition a tt {$/;"	s
-div.admonition code.xref	docs/html/_static/alabaster.css	/^div.admonition tt.xref, div.admonition code.xref, div.admonition a tt {$/;"	c
 div.admonition dt	docs/html/_static/basic.css	/^div.admonition dt {$/;"	s
-div.admonition ol	docs/html/_static/classic.css	/^div.admonition ul, div.admonition ol {$/;"	s
-div.admonition p	docs/html/_static/classic.css	/^div.admonition p {$/;"	s
-div.admonition p.admonition-title	docs/html/_static/alabaster.css	/^div.admonition p.admonition-title {$/;"	c
-div.admonition p.admonition-title + p	docs/html/_static/classic.css	/^div.admonition p.admonition-title + p {$/;"	s
-div.admonition p.last	docs/html/_static/alabaster.css	/^div.admonition p.last {$/;"	c
-div.admonition pre	docs/html/_static/classic.css	/^div.admonition pre {$/;"	s
-div.admonition tt.xref	docs/html/_static/alabaster.css	/^div.admonition tt.xref, div.admonition code.xref, div.admonition a tt {$/;"	c
-div.admonition ul	docs/html/_static/classic.css	/^div.admonition ul, div.admonition ol {$/;"	s
 div.admonition::after	docs/html/_static/basic.css	/^div.admonition::after,$/;"	c
-div.attention	docs/html/_static/alabaster.css	/^div.attention {$/;"	c
-div.body	docs/html/_static/alabaster.css	/^    div.body {$/;"	c
-div.body	docs/html/_static/alabaster.css	/^div.body {$/;"	c
 div.body	docs/html/_static/basic.css	/^div.body {$/;"	c
-div.body	docs/html/_static/classic.css	/^div.body {$/;"	c
-div.body > .section	docs/html/_static/alabaster.css	/^div.body > .section {$/;"	c
 div.body blockquote	docs/html/_static/basic.css	/^div.body p, div.body dd, div.body li, div.body blockquote {$/;"	s
-div.body blockquote	docs/html/_static/classic.css	/^div.body p, div.body dd, div.body li, div.body blockquote {$/;"	s
-div.body dd	docs/html/_static/alabaster.css	/^div.body p, div.body dd, div.body li {$/;"	s
 div.body dd	docs/html/_static/basic.css	/^div.body p, div.body dd, div.body li, div.body blockquote {$/;"	s
-div.body dd	docs/html/_static/classic.css	/^div.body p, div.body dd, div.body li, div.body blockquote {$/;"	s
 div.body div.math p	docs/html/_static/basic.css	/^div.body div.math p {$/;"	s
-div.body h1	docs/html/_static/alabaster.css	/^div.body h1 { margin-top: 0; padding-top: 0; font-size: 240%; }$/;"	s
-div.body h1	docs/html/_static/alabaster.css	/^div.body h1,$/;"	s
-div.body h1	docs/html/_static/classic.css	/^div.body h1 { margin-top: 0; font-size: 200%; }$/;"	s
-div.body h1	docs/html/_static/classic.css	/^div.body h1,$/;"	s
-div.body h2	docs/html/_static/alabaster.css	/^div.body h2 { font-size: 180%; }$/;"	s
-div.body h2	docs/html/_static/alabaster.css	/^div.body h2,$/;"	s
-div.body h2	docs/html/_static/classic.css	/^div.body h2 { font-size: 160%; }$/;"	s
-div.body h2	docs/html/_static/classic.css	/^div.body h2,$/;"	s
-div.body h3	docs/html/_static/alabaster.css	/^div.body h3 { font-size: 150%; }$/;"	s
-div.body h3	docs/html/_static/alabaster.css	/^div.body h3,$/;"	s
-div.body h3	docs/html/_static/classic.css	/^div.body h3 { font-size: 140%; }$/;"	s
-div.body h3	docs/html/_static/classic.css	/^div.body h3,$/;"	s
-div.body h4	docs/html/_static/alabaster.css	/^div.body h4 { font-size: 130%; }$/;"	s
-div.body h4	docs/html/_static/alabaster.css	/^div.body h4,$/;"	s
-div.body h4	docs/html/_static/classic.css	/^div.body h4 { font-size: 120%; }$/;"	s
-div.body h4	docs/html/_static/classic.css	/^div.body h4,$/;"	s
-div.body h5	docs/html/_static/alabaster.css	/^div.body h5 { font-size: 100%; }$/;"	s
-div.body h5	docs/html/_static/alabaster.css	/^div.body h5,$/;"	s
-div.body h5	docs/html/_static/classic.css	/^div.body h5 { font-size: 110%; }$/;"	s
-div.body h5	docs/html/_static/classic.css	/^div.body h5,$/;"	s
-div.body h6	docs/html/_static/alabaster.css	/^div.body h6 { font-size: 100%; }$/;"	s
-div.body h6	docs/html/_static/alabaster.css	/^div.body h6 {$/;"	s
-div.body h6	docs/html/_static/classic.css	/^div.body h6 { font-size: 100%; }$/;"	s
-div.body h6	docs/html/_static/classic.css	/^div.body h6 {$/;"	s
-div.body li	docs/html/_static/alabaster.css	/^div.body p, div.body dd, div.body li {$/;"	s
 div.body li	docs/html/_static/basic.css	/^div.body p, div.body dd, div.body li, div.body blockquote {$/;"	s
-div.body li	docs/html/_static/classic.css	/^div.body p, div.body dd, div.body li, div.body blockquote {$/;"	s
-div.body p	docs/html/_static/alabaster.css	/^div.body p, div.body dd, div.body li {$/;"	s
 div.body p	docs/html/_static/basic.css	/^div.body p, div.body dd, div.body li, div.body blockquote {$/;"	s
-div.body p	docs/html/_static/classic.css	/^div.body p, div.body dd, div.body li, div.body blockquote {$/;"	s
 div.body p.caption	docs/html/_static/basic.css	/^div.body p.caption {$/;"	c
 div.body p.centered	docs/html/_static/basic.css	/^div.body p.centered {$/;"	c
 div.body td	docs/html/_static/basic.css	/^div.body td {$/;"	s
-div.bodywrapper	docs/html/_static/alabaster.css	/^    div.bodywrapper {$/;"	c
-div.bodywrapper	docs/html/_static/alabaster.css	/^div.bodywrapper {$/;"	c
 div.bodywrapper	docs/html/_static/basic.css	/^    div.bodywrapper {$/;"	c
-div.bodywrapper	docs/html/_static/classic.css	/^div.bodywrapper {$/;"	c
-div.caution	docs/html/_static/alabaster.css	/^div.caution {$/;"	c
 div.clearer	docs/html/_static/basic.css	/^div.clearer {$/;"	c
 div.code-block-caption	docs/html/_static/basic.css	/^div.code-block-caption {$/;"	c
-div.code-block-caption	docs/html/_static/classic.css	/^div.code-block-caption {$/;"	c
 div.code-block-caption + div	docs/html/_static/basic.css	/^div.code-block-caption + div {$/;"	s
 div.code-block-caption code	docs/html/_static/basic.css	/^div.code-block-caption code {$/;"	s
 div.code-block-caption span.caption-number	docs/html/_static/basic.css	/^div.code-block-caption span.caption-number {$/;"	c
 div.code-block-caption span.caption-text	docs/html/_static/basic.css	/^div.code-block-caption span.caption-text {$/;"	c
 div.code-block-caption:hover > a.headerlink	docs/html/_static/basic.css	/^div.code-block-caption:hover > a.headerlink {$/;"	c
-div.danger	docs/html/_static/alabaster.css	/^div.danger {$/;"	c
-div.document	docs/html/_static/alabaster.css	/^    div.document {$/;"	c
-div.document	docs/html/_static/alabaster.css	/^div.document {$/;"	c
 div.document	docs/html/_static/basic.css	/^    div.document,$/;"	c
-div.document	docs/html/_static/classic.css	/^div.document {$/;"	c
-div.documentwrapper	docs/html/_static/alabaster.css	/^    div.documentwrapper {$/;"	c
-div.documentwrapper	docs/html/_static/alabaster.css	/^div.documentwrapper {$/;"	c
 div.documentwrapper	docs/html/_static/basic.css	/^    div.documentwrapper,$/;"	c
-div.documentwrapper	docs/html/_static/classic.css	/^div.documentwrapper {$/;"	c
-div.error	docs/html/_static/alabaster.css	/^div.error {$/;"	c
 div.figure	docs/html/_static/basic.css	/^div.figure, figure {$/;"	c
 div.figure p.caption	docs/html/_static/basic.css	/^div.figure p.caption, figcaption {$/;"	c
 div.figure p.caption span.caption-number	docs/html/_static/basic.css	/^div.figure p.caption span.caption-number,$/;"	c
 div.figure p.caption span.caption-text	docs/html/_static/basic.css	/^div.figure p.caption span.caption-text,$/;"	c
-div.footer	docs/html/_static/alabaster.css	/^    div.footer {$/;"	c
-div.footer	docs/html/_static/alabaster.css	/^div.footer {$/;"	c
 div.footer	docs/html/_static/basic.css	/^    div.footer,$/;"	c
-div.footer	docs/html/_static/classic.css	/^div.footer {$/;"	c
-div.footer a	docs/html/_static/alabaster.css	/^div.footer a {$/;"	s
-div.footer a	docs/html/_static/classic.css	/^div.footer a {$/;"	s
 div.genindex-jumpbox	docs/html/_static/basic.css	/^div.genindex-jumpbox {$/;"	c
-div.highlight	docs/html/_static/alabaster.css	/^div.highlight {$/;"	c
 div.highlight pre	docs/html/_static/basic.css	/^div.highlight pre,$/;"	s
 div.highlight span.gp	docs/html/_static/basic.css	/^div.highlight span.gp {  \/* gp: Generic.Prompt *\/$/;"	c
-div.hint	docs/html/_static/alabaster.css	/^div.hint {$/;"	c
-div.important	docs/html/_static/alabaster.css	/^div.important {$/;"	c
 div.literal-block-wrapper	docs/html/_static/basic.css	/^div.literal-block-wrapper {$/;"	c
 div.math:hover a.headerlink	docs/html/_static/basic.css	/^div.math:hover a.headerlink {$/;"	c
 div.modindex-jumpbox	docs/html/_static/basic.css	/^div.modindex-jumpbox {$/;"	c
-div.note	docs/html/_static/alabaster.css	/^div.note {$/;"	c
-div.note	docs/html/_static/classic.css	/^div.note {$/;"	c
-div.related	docs/html/_static/alabaster.css	/^    div.related {$/;"	c
 div.related	docs/html/_static/basic.css	/^    div.related,$/;"	c
 div.related	docs/html/_static/basic.css	/^div.related {$/;"	c
-div.related	docs/html/_static/classic.css	/^div.related {$/;"	c
-div.related a	docs/html/_static/classic.css	/^div.related a {$/;"	s
 div.related h3	docs/html/_static/basic.css	/^div.related h3 {$/;"	s
 div.related li	docs/html/_static/basic.css	/^div.related li {$/;"	s
 div.related li.right	docs/html/_static/basic.css	/^div.related li.right {$/;"	c
 div.related ul	docs/html/_static/basic.css	/^div.related ul {$/;"	s
-div.relations	docs/html/_static/alabaster.css	/^div.relations {$/;"	c
 div.section::after	docs/html/_static/basic.css	/^div.section::after {$/;"	c
-div.seealso	docs/html/_static/alabaster.css	/^div.seealso {$/;"	c
-div.seealso	docs/html/_static/classic.css	/^div.seealso {$/;"	c
 div.sidebar	docs/html/_static/basic.css	/^div.sidebar,$/;"	c
 div.sidebar > :last-child	docs/html/_static/basic.css	/^div.sidebar > :last-child,$/;"	s
 div.sidebar::after	docs/html/_static/basic.css	/^div.sidebar::after,$/;"	c
-div.sphinxsidebar	docs/html/_static/alabaster.css	/^    div.sphinxsidebar {$/;"	c
-div.sphinxsidebar	docs/html/_static/alabaster.css	/^div.sphinxsidebar {$/;"	c
 div.sphinxsidebar	docs/html/_static/basic.css	/^    div.sphinxsidebar,$/;"	c
 div.sphinxsidebar	docs/html/_static/basic.css	/^div.sphinxsidebar {$/;"	c
-div.sphinxsidebar	docs/html/_static/classic.css	/^div.sphinxsidebar {$/;"	c
 div.sphinxsidebar #searchbox form.search	docs/html/_static/basic.css	/^div.sphinxsidebar #searchbox form.search {$/;"	c
 div.sphinxsidebar #searchbox input[type="submit"]	docs/html/_static/basic.css	/^div.sphinxsidebar #searchbox input[type="submit"] {$/;"	s
 div.sphinxsidebar #searchbox input[type="text"]	docs/html/_static/basic.css	/^div.sphinxsidebar #searchbox input[type="text"] {$/;"	s
-div.sphinxsidebar .badge	docs/html/_static/alabaster.css	/^div.sphinxsidebar .badge {$/;"	c
-div.sphinxsidebar .badge:hover	docs/html/_static/alabaster.css	/^div.sphinxsidebar .badge:hover {$/;"	c
-div.sphinxsidebar a	docs/html/_static/alabaster.css	/^    div.sphinxsidebar a {$/;"	s
-div.sphinxsidebar a	docs/html/_static/alabaster.css	/^div.sphinxsidebar a {$/;"	s
-div.sphinxsidebar a	docs/html/_static/classic.css	/^div.sphinxsidebar a {$/;"	s
-div.sphinxsidebar a:hover	docs/html/_static/alabaster.css	/^div.sphinxsidebar a:hover {$/;"	s
 div.sphinxsidebar form	docs/html/_static/basic.css	/^div.sphinxsidebar form {$/;"	s
-div.sphinxsidebar h3	docs/html/_static/alabaster.css	/^    div.sphinxsidebar h3, div.sphinxsidebar h4, div.sphinxsidebar p,$/;"	s
-div.sphinxsidebar h3	docs/html/_static/alabaster.css	/^div.sphinxsidebar h3,$/;"	s
-div.sphinxsidebar h3	docs/html/_static/classic.css	/^div.sphinxsidebar h3 {$/;"	s
-div.sphinxsidebar h3 a	docs/html/_static/alabaster.css	/^    div.sphinxsidebar h3 a {$/;"	s
-div.sphinxsidebar h3 a	docs/html/_static/alabaster.css	/^div.sphinxsidebar h3 a {$/;"	s
-div.sphinxsidebar h3 a	docs/html/_static/alabaster.css	/^div.sphinxsidebar h3 a,$/;"	s
-div.sphinxsidebar h3 a	docs/html/_static/classic.css	/^div.sphinxsidebar h3 a {$/;"	s
-div.sphinxsidebar h3 a:hover	docs/html/_static/alabaster.css	/^div.sphinxsidebar h3 a:hover {$/;"	s
-div.sphinxsidebar h3.donation	docs/html/_static/alabaster.css	/^div.sphinxsidebar h3.donation {$/;"	c
-div.sphinxsidebar h4	docs/html/_static/alabaster.css	/^    div.sphinxsidebar h3, div.sphinxsidebar h4, div.sphinxsidebar p,$/;"	s
-div.sphinxsidebar h4	docs/html/_static/alabaster.css	/^div.sphinxsidebar h4 {$/;"	s
-div.sphinxsidebar h4	docs/html/_static/classic.css	/^div.sphinxsidebar h4 {$/;"	s
-div.sphinxsidebar hr	docs/html/_static/alabaster.css	/^div.sphinxsidebar hr {$/;"	s
-div.sphinxsidebar input	docs/html/_static/alabaster.css	/^div.sphinxsidebar input {$/;"	s
 div.sphinxsidebar input	docs/html/_static/basic.css	/^div.sphinxsidebar input {$/;"	s
-div.sphinxsidebar input	docs/html/_static/classic.css	/^div.sphinxsidebar input {$/;"	s
-div.sphinxsidebar p	docs/html/_static/alabaster.css	/^    div.sphinxsidebar h3, div.sphinxsidebar h4, div.sphinxsidebar p,$/;"	s
-div.sphinxsidebar p	docs/html/_static/alabaster.css	/^div.sphinxsidebar p {$/;"	s
-div.sphinxsidebar p	docs/html/_static/classic.css	/^div.sphinxsidebar p {$/;"	s
-div.sphinxsidebar p.logo	docs/html/_static/alabaster.css	/^    div.sphinxsidebar p.logo {$/;"	c
-div.sphinxsidebar p.logo a	docs/html/_static/alabaster.css	/^div.sphinxsidebar p.logo a,$/;"	s
-div.sphinxsidebar p.logo a:hover	docs/html/_static/alabaster.css	/^div.sphinxsidebar p.logo a:hover,$/;"	s
-div.sphinxsidebar p.topless	docs/html/_static/classic.css	/^div.sphinxsidebar p.topless {$/;"	c
-div.sphinxsidebar ul	docs/html/_static/alabaster.css	/^div.sphinxsidebar ul {$/;"	s
 div.sphinxsidebar ul	docs/html/_static/basic.css	/^div.sphinxsidebar ul {$/;"	s
-div.sphinxsidebar ul	docs/html/_static/classic.css	/^div.sphinxsidebar ul {$/;"	s
-div.sphinxsidebar ul li.toctree-l1 > a	docs/html/_static/alabaster.css	/^div.sphinxsidebar ul li.toctree-l1 > a {$/;"	s
-div.sphinxsidebar ul li.toctree-l2 > a	docs/html/_static/alabaster.css	/^div.sphinxsidebar ul li.toctree-l2 > a {$/;"	s
 div.sphinxsidebar ul ul	docs/html/_static/basic.css	/^div.sphinxsidebar ul ul {$/;"	s
 div.sphinxsidebar ul ul	docs/html/_static/basic.css	/^div.sphinxsidebar ul ul,$/;"	s
 div.sphinxsidebar ul.want-points	docs/html/_static/basic.css	/^div.sphinxsidebar ul.want-points {$/;"	c
-div.sphinxsidebarwrapper	docs/html/_static/alabaster.css	/^div.sphinxsidebarwrapper {$/;"	c
 div.sphinxsidebarwrapper	docs/html/_static/basic.css	/^div.sphinxsidebarwrapper {$/;"	c
-div.sphinxsidebarwrapper h1.logo	docs/html/_static/alabaster.css	/^div.sphinxsidebarwrapper h1.logo {$/;"	c
-div.sphinxsidebarwrapper h1.logo-name	docs/html/_static/alabaster.css	/^div.sphinxsidebarwrapper h1.logo-name {$/;"	c
-div.sphinxsidebarwrapper p.blurb	docs/html/_static/alabaster.css	/^div.sphinxsidebarwrapper p.blurb {$/;"	c
-div.sphinxsidebarwrapper p.logo	docs/html/_static/alabaster.css	/^div.sphinxsidebarwrapper p.logo {$/;"	c
-div.tip	docs/html/_static/alabaster.css	/^div.tip {$/;"	c
-div.topic	docs/html/_static/alabaster.css	/^div.topic {$/;"	c
 div.topic	docs/html/_static/basic.css	/^div.admonition, div.topic, blockquote {$/;"	c
 div.topic	docs/html/_static/basic.css	/^div.topic {$/;"	c
-div.topic	docs/html/_static/classic.css	/^div.topic {$/;"	c
 div.topic > :last-child	docs/html/_static/basic.css	/^div.topic > :last-child,$/;"	s
 div.topic::after	docs/html/_static/basic.css	/^div.topic::after,$/;"	c
-div.viewcode-block:target	docs/html/_static/alabaster.css	/^div.viewcode-block:target {$/;"	c
 div.viewcode-block:target	docs/html/_static/basic.css	/^div.viewcode-block:target {$/;"	c
-div.viewcode-block:target	docs/html/_static/classic.css	/^div.viewcode-block:target {$/;"	c
-div.warning	docs/html/_static/alabaster.css	/^div.warning {$/;"	c
-div.warning	docs/html/_static/classic.css	/^div.warning {$/;"	c
 div[class*="highlight-"]	docs/html/_static/basic.css	/^div[class*="highlight-"] {$/;"	s
 div[class*="highlight-"]	docs/html/_static/basic.css	/^pre, div[class*="highlight-"] {$/;"	s
-dl	docs/html/_static/alabaster.css	/^dl {$/;"	s
 dl	docs/html/_static/basic.css	/^dl {$/;"	s
 dl	docs/html/_static/css/theme.css	/^html{box-sizing:border-box}*,:after,:before{box-sizing:inherit}article,aside,details,figcaption,/;"	s
 dl > dd:last-child	docs/html/_static/basic.css	/^dl > dd:last-child,$/;"	s
 dl > dd:last-child > :last-child	docs/html/_static/basic.css	/^dl > dd:last-child > :last-child {$/;"	s
-dl dd	docs/html/_static/alabaster.css	/^dl dd {$/;"	s
-dl pre	docs/html/_static/alabaster.css	/^dl pre, blockquote pre, li pre {$/;"	s
 dl.citation > dd	docs/html/_static/basic.css	/^dl.citation > dd {$/;"	s
 dl.citation > dd:after	docs/html/_static/basic.css	/^dl.citation > dd:after {$/;"	s
 dl.citation > dt	docs/html/_static/basic.css	/^dl.citation > dt {$/;"	s
 dl.field-list	docs/html/_static/basic.css	/^dl.field-list {$/;"	c
 dl.field-list > dd	docs/html/_static/basic.css	/^dl.field-list > dd {$/;"	s
 dl.field-list > dt	docs/html/_static/basic.css	/^dl.field-list > dt {$/;"	s
-dl.field-list > dt	docs/html/_static/classic.css	/^th, dl.field-list > dt {$/;"	s
 dl.field-list > dt:after	docs/html/_static/basic.css	/^dl.field-list > dt:after {$/;"	s
 dl.footnote > dd	docs/html/_static/basic.css	/^dl.footnote > dd,$/;"	s
 dl.footnote > dd:after	docs/html/_static/basic.css	/^dl.footnote > dd:after,$/;"	s
 dl.footnote > dt	docs/html/_static/basic.css	/^dl.footnote > dt,$/;"	s
 dl.glossary dt	docs/html/_static/basic.css	/^dl.glossary dt {$/;"	s
 doAnimation	docs/html/_static/jquery-3.5.1.js	/^			doAnimation = function() {$/;"	f	function:AnonymousFunction015baf0413100
+documentation_options	docs/html/ac/intro.html	/^        <script data-url_root="..\/" id="documentation_options" src="..\/_static\/documentation_/;"	I
 documentation_options	docs/html/dc/fundamentals.html	/^        <script data-url_root="..\/" id="documentation_options" src="..\/_static\/documentation_/;"	I
 documentation_options	docs/html/dc/intro.html	/^        <script data-url_root="..\/" id="documentation_options" src="..\/_static\/documentation_/;"	I
 documentation_options	docs/html/fm/welcome.html	/^        <script data-url_root="..\/" id="documentation_options" src="..\/_static\/documentation_/;"	I
 documentation_options	docs/html/genindex.html	/^        <script data-url_root=".\/" id="documentation_options" src="_static\/documentation_optio/;"	I
 documentation_options	docs/html/index.html	/^        <script data-url_root=".\/" id="documentation_options" src="_static\/documentation_optio/;"	I
+documentation_options	docs/html/op/intro.html	/^        <script data-url_root="..\/" id="documentation_options" src="..\/_static\/documentation_/;"	I
 documentation_options	docs/html/search.html	/^        <script data-url_root=".\/" id="documentation_options" src="_static\/documentation_optio/;"	I
+documentation_options	docs/html/sm/intro.html	/^        <script data-url_root="..\/" id="documentation_options" src="..\/_static\/documentation_/;"	I
 domManip	docs/html/_static/jquery-3.5.1.js	/^function domManip( collection, args, callback, ignored ) {$/;"	f
 done	docs/html/_static/jquery-3.5.1.js	/^		function done( status, nativeStatusText, responses, headers ) {$/;"	f	function:AnonymousFunction015baf0417200
 dr	docs/html/_static/underscore.js	/^var n="1.13.1",r="object"==typeof self&&self.self===self&&self||"object"==typeof global&&global./;"	f	function:AnonymousFunctiona78fb77c0200
 dt	docs/html/_static/jquery.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f	function:AnonymousFunctiona233c20215800
 dt:hover > a.headerlink	docs/html/_static/basic.css	/^dt:hover > a.headerlink,$/;"	c
-dt:target	docs/html/_static/alabaster.css	/^dt:target, .highlight {$/;"	s
 dt:target	docs/html/_static/basic.css	/^dt:target, span.highlighted {$/;"	s
 e	docs/html/_static/jquery.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f	function:AnonymousFunctiona233c20211900
 e	docs/html/_static/jquery.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f	function:AnonymousFunctiona233c202ad00.a.then.l.AnonymousFunctiona233c202b000
@@ -4210,7 +4039,6 @@ exclude_patterns	conf.py	/^exclude_patterns = ['docs', 'Thumbs.db', '.DS_Store']
 executeBound	docs/html/_static/underscore-1.13.1.js	/^  function executeBound(sourceFunc, boundFunc, context, callingContext, args) {$/;"	f	function:AnonymousFunctionc479a98b0200
 expand	docs/html/_static/jquery-3.5.1.js	/^		expand: function( value ) {$/;"	m	class:jQuery.cssHooks
 expand	docs/html/_static/jquery.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	m	class:S.cssHooks
-expand_sidebar	docs/html/_static/sidebar.js	/^  function expand_sidebar() {$/;"	f	function:AnonymousFunction91e7e51c0100
 expectSync	docs/html/_static/jquery-3.5.1.js	/^function expectSync( elem, type ) {$/;"	f
 extensions	conf.py	/^extensions = [$/;"	v
 f	docs/html/_static/js/html5shiv-printshiv.min.js	/^!function(a,b){function c(a,b){var c=a.createElement("p"),d=a.getElementsByTagName("head")[0]||a/;"	f
@@ -4321,9 +4149,7 @@ hideSearchWords	docs/html/_static/doctools.js	/^  hideSearchWords : function() {
 highlight	docs/html/_static/doctools.js	/^  function highlight(node, addItems) {$/;"	f	function:jQuery.fn.highlightText
 highlightSearchWords	docs/html/_static/doctools.js	/^  highlightSearchWords : function() {$/;"	m	class:Documentation
 highlightText	docs/html/_static/doctools.js	/^jQuery.fn.highlightText = function(text, className) {$/;"	f	function:jQuery.fn
-hr	docs/html/_static/alabaster.css	/^hr {$/;"	s
 hr	docs/html/_static/css/theme.css	/^ *\/@font-face{font-family:FontAwesome;src:url(fonts\/fontawesome-webfont.eot?674f50d287a8c48dc1/;"	s
-html	docs/html/_static/classic.css	/^html {$/;"	s
 html	docs/html/_static/css/theme.css	/^ *\/@font-face{font-family:FontAwesome;src:url(fonts\/fontawesome-webfont.eot?674f50d287a8c48dc1/;"	s
 html	docs/html/_static/css/theme.css	/^html{box-sizing:border-box}*,:after,:before{box-sizing:inherit}article,aside,details,figcaption,/;"	s
 html.writer-html4 .rst-content dl:not(.docutils)	docs/html/_static/css/theme.css	/^ *\/@font-face{font-family:FontAwesome;src:url(fonts\/fontawesome-webfont.eot?674f50d287a8c48dc1/;"	c
@@ -4411,7 +4237,6 @@ img.align-default	docs/html/_static/basic.css	/^img.align-default, figure.align-
 img.align-left	docs/html/_static/basic.css	/^img.align-left, figure.align-left, .figure.align-left, object.align-left {$/;"	c
 img.align-right	docs/html/_static/basic.css	/^img.align-right, figure.align-right, .figure.align-right, object.align-right {$/;"	c
 img.math	docs/html/_static/basic.css	/^img.math {$/;"	c
-img.screenshot	docs/html/_static/alabaster.css	/^img.screenshot {$/;"	c
 img.toggler	docs/html/_static/basic.css	/^img.toggler {$/;"	c
 index	docs/html/genindex.html	/^<h1 id="index">Index<\/h1>$/;"	I
 indices-and-tables	docs/html/index.html	/^<div class="section" id="indices-and-tables">$/;"	I
@@ -4547,8 +4372,6 @@ leverageNative	docs/html/_static/jquery-3.5.1.js	/^function leverageNative( el, 
 li	docs/html/_static/css/theme.css	/^html{box-sizing:border-box}*,:after,:before{box-sizing:inherit}article,aside,details,figcaption,/;"	s
 li .fa	docs/html/_static/css/badge_only.css	/^.fa:before{-webkit-font-smoothing:antialiased}.clearfix{*zoom:1}.clearfix:after,.clearfix:before/;"	c
 li .fa-large:before	docs/html/_static/css/badge_only.css	/^.fa:before{-webkit-font-smoothing:antialiased}.clearfix{*zoom:1}.clearfix:after,.clearfix:before/;"	c
-li > ul	docs/html/_static/alabaster.css	/^	li > ul {$/;"	s
-li pre	docs/html/_static/alabaster.css	/^dl pre, blockquote pre, li pre {$/;"	s
 loadIndex	docs/html/_static/searchtools.js	/^  loadIndex : function(url) {$/;"	m	class:Search
 logi	docs/html/_static/language_data.js	/^    logi: 'log'$/;"	p	class:Stemmer.step2list
 lt	docs/html/_static/jquery.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f
@@ -4582,9 +4405,6 @@ n	docs/html/_static/js/html5shiv.min.js	/^!function(a,b){function c(a,b){var c=a
 n	docs/html/_static/js/theme.js	/^!function(n){var e={};function t(i){if(e[i])return e[i].exports;var o=e[i]={i:i,l:!1,exports:{}}/;"	f	function:t
 n	docs/html/_static/underscore.js	/^var n="1.13.1",r="object"==typeof self&&self.self===self&&self||"object"==typeof global&&global./;"	p	class:AnonymousFunctiona78fb77c0200.Hn
 nav	docs/html/_static/css/theme.css	/^html{box-sizing:border-box}*,:after,:before{box-sizing:inherit}article,aside,details,figcaption,/;"	s
-nav#breadcrumbs li+li:before	docs/html/_static/alabaster.css	/^nav#breadcrumbs li+li:before {$/;"	s
-nav#rellinks	docs/html/_static/alabaster.css	/^nav#rellinks {$/;"	i
-nav#rellinks li+li:before	docs/html/_static/alabaster.css	/^nav#rellinks li+li:before {$/;"	s
 negate	docs/html/_static/underscore-1.13.1.js	/^  function negate(predicate) {$/;"	f	function:AnonymousFunctionc479a98b0200
 ness	docs/html/_static/language_data.js	/^    ness: ''$/;"	p	class:Stemmer.step3list
 next	docs/html/_static/jquery-3.5.1.js	/^			next = function() {$/;"	f	function:AnonymousFunction015baf04c300
@@ -4610,7 +4430,6 @@ object	docs/html/_static/underscore-1.13.1.js	/^  function object(list, values) 
 object.align-center	docs/html/_static/basic.css	/^img.align-center, figure.align-center, .figure.align-center, object.align-center {$/;"	c
 object.align-left	docs/html/_static/basic.css	/^img.align-left, figure.align-left, .figure.align-left, object.align-left {$/;"	c
 object.align-right	docs/html/_static/basic.css	/^img.align-right, figure.align-right, .figure.align-right, object.align-right {$/;"	c
-ol	docs/html/_static/alabaster.css	/^ul, ol {$/;"	s
 ol	docs/html/_static/css/theme.css	/^html{box-sizing:border-box}*,:after,:before{box-sizing:inherit}article,aside,details,figcaption,/;"	s
 ol.arabic	docs/html/_static/basic.css	/^ol.arabic {$/;"	c
 ol.loweralpha	docs/html/_static/basic.css	/^ol.loweralpha {$/;"	c
@@ -4624,6 +4443,7 @@ ol.upperroman	docs/html/_static/basic.css	/^ol.upperroman {$/;"	c
 on	docs/html/_static/jquery-3.5.1.js	/^function on( elem, types, selector, data, fn, one ) {$/;"	f
 on	docs/html/_static/underscore.js	/^var n="1.13.1",r="object"==typeof self&&self.self===self&&self||"object"==typeof global&&global./;"	f	function:AnonymousFunctiona78fb77c0200
 onreadystatechange	docs/html/_static/jquery-3.5.1.js	/^					xhr.onreadystatechange = function() {$/;"	f	function:xhr
+operational-amplifiers	docs/html/op/intro.html	/^  <div class="section" id="operational-amplifiers">$/;"	I
 optimizeCb	docs/html/_static/underscore-1.13.1.js	/^  function optimizeCb(func, context, argCount) {$/;"	f	function:AnonymousFunctionc479a98b0200
 ousli	docs/html/_static/language_data.js	/^    ousli: 'ous',$/;"	p	class:Stemmer.step2list
 ousness	docs/html/_static/language_data.js	/^    ousness: 'ous',$/;"	p	class:Stemmer.step2list
@@ -4634,12 +4454,7 @@ p	docs/html/_static/css/theme.css	/^html{box-sizing:border-box}*,:after,:before{
 p	docs/html/_static/jquery.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f
 p	docs/html/_static/js/html5shiv-printshiv.min.js	/^!function(a,b){function c(a,b){var c=a.createElement("p"),d=a.getElementsByTagName("head")[0]||a/;"	v
 p	docs/html/_static/js/html5shiv.min.js	/^!function(a,b){function c(a,b){var c=a.createElement("p"),d=a.getElementsByTagName("head")[0]||a/;"	v
-p.admonition-title	docs/html/_static/alabaster.css	/^p.admonition-title {$/;"	c
 p.admonition-title	docs/html/_static/basic.css	/^p.admonition-title {$/;"	c
-p.admonition-title	docs/html/_static/classic.css	/^p.admonition-title {$/;"	c
-p.admonition-title:after	docs/html/_static/alabaster.css	/^p.admonition-title:after {$/;"	c
-p.admonition-title:after	docs/html/_static/classic.css	/^p.admonition-title:after {$/;"	c
-p.caption	docs/html/_static/alabaster.css	/^p.caption {$/;"	c
 p.caption:hover > a.headerlink	docs/html/_static/basic.css	/^p.caption:hover > a.headerlink,$/;"	c
 p.rubric	docs/html/_static/basic.css	/^p.rubric {$/;"	c
 p.sidebar-title	docs/html/_static/basic.css	/^p.sidebar-title {$/;"	c
@@ -4656,11 +4471,8 @@ pipe	docs/html/_static/jquery-3.5.1.js	/^				pipe: function( \/* fnDone, fnFail,
 pipe	docs/html/_static/jquery.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	m	class:AnonymousFunctiona233c202ad00.a
 pluck	docs/html/_static/underscore-1.13.1.js	/^  function pluck(obj, key) {$/;"	f	function:AnonymousFunctionc479a98b0200
 pr	docs/html/_static/underscore.js	/^var n="1.13.1",r="object"==typeof self&&self.self===self&&self||"object"==typeof global&&global./;"	f	function:AnonymousFunctiona78fb77c0200
-pre	docs/html/_static/alabaster.css	/^pre {$/;"	s
-pre	docs/html/_static/alabaster.css	/^pre, tt, code {$/;"	s
 pre	docs/html/_static/basic.css	/^pre {$/;"	s
 pre	docs/html/_static/basic.css	/^pre, div[class*="highlight-"] {$/;"	s
-pre	docs/html/_static/classic.css	/^pre {$/;"	s
 pre	docs/html/_static/css/theme.css	/^html{box-sizing:border-box}*,:after,:before{box-sizing:inherit}article,aside,details,figcaption,/;"	s
 pre	docs/html/_static/pygments.css	/^pre { line-height: 125%; }$/;"	s
 preservedScriptAttributes	docs/html/_static/jquery-3.5.1.js	/^	var preservedScriptAttributes = {$/;"	c	class:AnonymousFunction015baf040100
@@ -4710,12 +4522,15 @@ returnFalse	docs/html/_static/jquery-3.5.1.js	/^function returnFalse() {$/;"	f
 returnTrue	docs/html/_static/jquery-3.5.1.js	/^function returnTrue() {$/;"	f
 rn	docs/html/_static/underscore.js	/^var n="1.13.1",r="object"==typeof self&&self.self===self&&self||"object"==typeof global&&global./;"	f	function:AnonymousFunctiona78fb77c0200
 roundPixelMeasures	docs/html/_static/jquery-3.5.1.js	/^	function roundPixelMeasures( measure ) {$/;"	f	function:AnonymousFunction015baf0410a00
+rtd-search-form	docs/html/ac/intro.html	/^  <form id="rtd-search-form" class="wy-form" action="..\/search.html" method="get">$/;"	I
 rtd-search-form	docs/html/dc/fundamentals.html	/^  <form id="rtd-search-form" class="wy-form" action="..\/search.html" method="get">$/;"	I
 rtd-search-form	docs/html/dc/intro.html	/^  <form id="rtd-search-form" class="wy-form" action="..\/search.html" method="get">$/;"	I
 rtd-search-form	docs/html/fm/welcome.html	/^  <form id="rtd-search-form" class="wy-form" action="..\/search.html" method="get">$/;"	I
 rtd-search-form	docs/html/genindex.html	/^  <form id="rtd-search-form" class="wy-form" action="search.html" method="get">$/;"	I
 rtd-search-form	docs/html/index.html	/^  <form id="rtd-search-form" class="wy-form" action="search.html" method="get">$/;"	I
+rtd-search-form	docs/html/op/intro.html	/^  <form id="rtd-search-form" class="wy-form" action="..\/search.html" method="get">$/;"	I
 rtd-search-form	docs/html/search.html	/^  <form id="rtd-search-form" class="wy-form" action="#" method="get">$/;"	I
+rtd-search-form	docs/html/sm/intro.html	/^  <form id="rtd-search-form" class="wy-form" action="..\/search.html" method="get">$/;"	I
 s	docs/html/_static/jquery.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f
 s	docs/html/_static/jquery.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f	function:AnonymousFunctiona233c202d900
 s	docs/html/_static/js/html5shiv-printshiv.min.js	/^!function(a,b){function c(a,b){var c=a.createElement("p"),d=a.getElementsByTagName("head")[0]||a/;"	v
@@ -4736,6 +4551,7 @@ select:focus:invalid:focus	docs/html/_static/css/theme.css	/^ *\/@font-face{font
 select[disabled]	docs/html/_static/css/theme.css	/^ *\/@font-face{font-family:FontAwesome;src:url(fonts\/fontawesome-webfont.eot?674f50d287a8c48dc1/;"	s
 select[multiple]	docs/html/_static/css/theme.css	/^ *\/@font-face{font-family:FontAwesome;src:url(fonts\/fontawesome-webfont.eot?674f50d287a8c48dc1/;"	s
 select[readonly]	docs/html/_static/css/theme.css	/^ *\/@font-face{font-family:FontAwesome;src:url(fonts\/fontawesome-webfont.eot?674f50d287a8c48dc1/;"	s
+semiconductor-devices	docs/html/sm/intro.html	/^  <div class="section" id="semiconductor-devices">$/;"	I
 setFilters	docs/html/_static/jquery-3.5.1.js	/^function setFilters() {}$/;"	f
 setGlobalEval	docs/html/_static/jquery-3.5.1.js	/^function setGlobalEval( elems, refElements ) {$/;"	f
 setIndex	docs/html/_static/searchtools.js	/^  setIndex : function(index) {$/;"	m	class:Search
@@ -4743,7 +4559,6 @@ setMatcher	docs/html/_static/jquery-3.5.1.js	/^function setMatcher( preFilter, s
 setPositiveNumber	docs/html/_static/jquery-3.5.1.js	/^function setPositiveNumber( _elem, value, subtract ) {$/;"	f
 setRequestHeader	docs/html/_static/jquery-3.5.1.js	/^				setRequestHeader: function( name, value ) {$/;"	m	class:AnonymousFunction015baf0417200.jqXHR
 setRequestHeader	docs/html/_static/jquery.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	m	class:AnonymousFunctiona233c20218500.T
-set_position_from_cookie	docs/html/_static/sidebar.js	/^  function set_position_from_cookie() {$/;"	f	function:AnonymousFunction91e7e51c0100
 setup	docs/html/_static/jquery-3.5.1.js	/^			setup: function() {$/;"	m	class:jQuery.event.special
 setup	docs/html/_static/jquery-3.5.1.js	/^		setup: function() {$/;"	m	class:jQuery.event.special
 setup	docs/html/_static/jquery.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	m	class:S.event.special
@@ -4758,7 +4573,6 @@ showHide	docs/html/_static/jquery-3.5.1.js	/^function showHide( elements, show )
 shuffle	docs/html/_static/underscore-1.13.1.js	/^  function shuffle(obj) {$/;"	f	function:AnonymousFunctionc479a98b0200
 sibling	docs/html/_static/jquery-3.5.1.js	/^function sibling( cur, dir ) {$/;"	f
 siblingCheck	docs/html/_static/jquery-3.5.1.js	/^function siblingCheck( a, b ) {$/;"	f
-sidebar_is_collapsed	docs/html/_static/sidebar.js	/^  function sidebar_is_collapsed() {$/;"	f	function:AnonymousFunction91e7e51c0100
 size	docs/html/_static/underscore-1.13.1.js	/^  function size(obj) {$/;"	f	function:AnonymousFunctionc479a98b0200
 small	docs/html/_static/css/theme.css	/^ *\/@font-face{font-family:FontAwesome;src:url(fonts\/fontawesome-webfont.eot?674f50d287a8c48dc1/;"	s
 small	docs/html/_static/css/theme.css	/^html{box-sizing:border-box}*,:after,:before{box-sizing:inherit}article,aside,details,figcaption,/;"	s
@@ -4825,27 +4639,12 @@ table.citation	docs/html/_static/basic.css	/^table.citation {$/;"	c
 table.citation td	docs/html/_static/basic.css	/^table.citation td {$/;"	s
 table.contentstable	docs/html/_static/basic.css	/^table.contentstable {$/;"	c
 table.contentstable p.biglink	docs/html/_static/basic.css	/^table.contentstable p.biglink {$/;"	c
-table.docutils	docs/html/_static/alabaster.css	/^table.docutils {$/;"	c
 table.docutils	docs/html/_static/basic.css	/^table.docutils {$/;"	c
-table.docutils td	docs/html/_static/alabaster.css	/^table.docutils td, table.docutils th {$/;"	s
 table.docutils td	docs/html/_static/basic.css	/^table.docutils td, table.docutils th {$/;"	s
-table.docutils th	docs/html/_static/alabaster.css	/^table.docutils td, table.docutils th {$/;"	s
 table.docutils th	docs/html/_static/basic.css	/^table.docutils td, table.docutils th {$/;"	s
-table.docutils.citation	docs/html/_static/alabaster.css	/^table.docutils.citation, table.docutils.citation td, table.docutils.citation th {$/;"	c
-table.docutils.citation td	docs/html/_static/alabaster.css	/^table.docutils.citation, table.docutils.citation td, table.docutils.citation th {$/;"	s
-table.docutils.citation th	docs/html/_static/alabaster.css	/^table.docutils.citation, table.docutils.citation td, table.docutils.citation th {$/;"	s
-table.field-list	docs/html/_static/alabaster.css	/^table.field-list, table.footnote {$/;"	c
-table.field-list p	docs/html/_static/alabaster.css	/^table.field-list p {$/;"	s
-table.field-list td	docs/html/_static/alabaster.css	/^table.field-list td {$/;"	s
 table.field-list td	docs/html/_static/basic.css	/^table.field-list td, table.field-list th {$/;"	s
-table.field-list th	docs/html/_static/alabaster.css	/^table.field-list th {$/;"	s
 table.field-list th	docs/html/_static/basic.css	/^table.field-list td, table.field-list th {$/;"	s
-table.footnote	docs/html/_static/alabaster.css	/^table.field-list, table.footnote {$/;"	c
-table.footnote	docs/html/_static/alabaster.css	/^table.footnote {$/;"	c
-table.footnote + table.footnote	docs/html/_static/alabaster.css	/^table.footnote + table.footnote {$/;"	c
-table.footnote td	docs/html/_static/alabaster.css	/^table.footnote td {$/;"	s
 table.footnote td	docs/html/_static/basic.css	/^table.footnote td, table.footnote th {$/;"	s
-table.footnote td.label	docs/html/_static/alabaster.css	/^table.footnote td.label {$/;"	c
 table.footnote th	docs/html/_static/basic.css	/^table.footnote td, table.footnote th {$/;"	s
 table.highlighttable	docs/html/_static/basic.css	/^table.highlighttable {$/;"	c
 table.highlighttable pre	docs/html/_static/basic.css	/^table.highlighttable pre {$/;"	s
@@ -4887,7 +4686,6 @@ textarea:focus:invalid:focus	docs/html/_static/css/theme.css	/^ *\/@font-face{fo
 textarea[disabled]	docs/html/_static/css/theme.css	/^ *\/@font-face{font-family:FontAwesome;src:url(fonts\/fontawesome-webfont.eot?674f50d287a8c48dc1/;"	s
 textarea[readonly]	docs/html/_static/css/theme.css	/^ *\/@font-face{font-family:FontAwesome;src:url(fonts\/fontawesome-webfont.eot?674f50d287a8c48dc1/;"	s
 th	docs/html/_static/basic.css	/^th {$/;"	s
-th	docs/html/_static/classic.css	/^th, dl.field-list > dt {$/;"	s
 th > :first-child	docs/html/_static/basic.css	/^th > :first-child,$/;"	s
 th > :last-child	docs/html/_static/basic.css	/^th > :last-child,$/;"	s
 thead	docs/html/_static/css/theme.css	/^html{box-sizing:border-box}*,:after,:before{box-sizing:inherit}article,aside,details,figcaption,/;"	s
@@ -4908,18 +4706,11 @@ toPath	docs/html/_static/underscore-1.13.1.js	/^  function toPath(path) {$/;"	f	
 toPath$1	docs/html/_static/underscore-1.13.1.js	/^  function toPath$1(path) {$/;"	f	function:AnonymousFunctionc479a98b0200
 toSelector	docs/html/_static/jquery-3.5.1.js	/^function toSelector( tokens ) {$/;"	f
 toType	docs/html/_static/jquery-3.5.1.js	/^function toType( obj ) {$/;"	f	function:AnonymousFunction015baf040100
-toggle_sidebar	docs/html/_static/sidebar.js	/^  function toggle_sidebar() {$/;"	f	function:AnonymousFunction91e7e51c0100
 top	docs/html/_static/jquery-3.5.1.js	/^			parentOffset = { top: 0, left: 0 };$/;"	p	class:AnonymousFunction015baf0419d00.parentOffset
 top	docs/html/_static/jquery.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	p	class:AnonymousFunctiona233c2021b200.i
 tr	docs/html/_static/css/theme.css	/^html{box-sizing:border-box}*,:after,:before{box-sizing:inherit}article,aside,details,figcaption,/;"	s
 trigger	docs/html/_static/jquery-3.5.1.js	/^		trigger: function() {$/;"	m	class:jQuery.event.special
 trigger	docs/html/_static/jquery.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	m	class:S.event.special
-tt	docs/html/_static/alabaster.css	/^pre, tt, code {$/;"	s
-tt	docs/html/_static/alabaster.css	/^tt, code {$/;"	s
-tt.descclassname	docs/html/_static/alabaster.css	/^tt.descname, tt.descclassname, code.descname, code.descclassname {$/;"	c
-tt.descname	docs/html/_static/alabaster.css	/^tt.descname, code.descname {$/;"	c
-tt.descname	docs/html/_static/alabaster.css	/^tt.descname, tt.descclassname, code.descname, code.descclassname {$/;"	c
-tt.xref	docs/html/_static/alabaster.css	/^tt.xref, code.xref, a tt {$/;"	c
 type	docs/html/_static/jquery-3.5.1.js	/^		type: true,$/;"	p	class:AnonymousFunction015baf040100.preservedScriptAttributes
 type	docs/html/_static/js/html5shiv-printshiv.min.js	/^!function(a,b){function c(a,b){var c=a.createElement("p"),d=a.getElementsByTagName("head")[0]||a/;"	p	class:y
 type	docs/html/_static/js/html5shiv.min.js	/^!function(a,b){function c(a,b){var c=a.createElement("p"),d=a.getElementsByTagName("head")[0]||a/;"	p	class:t
@@ -4927,8 +4718,6 @@ u	docs/html/_static/jquery.js	/^!function(e,t){"use strict";"object"==typeof mod
 u	docs/html/_static/js/html5shiv-printshiv.min.js	/^!function(a,b){function c(a,b){var c=a.createElement("p"),d=a.getElementsByTagName("head")[0]||a/;"	v
 uaMatch	docs/html/_static/doctools.js	/^  jQuery.uaMatch = function(ua) {$/;"	f	function:jQuery
 ue	docs/html/_static/jquery.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f
-ul	docs/html/_static/alabaster.css	/^    ul {$/;"	s
-ul	docs/html/_static/alabaster.css	/^ul, ol {$/;"	s
 ul	docs/html/_static/css/theme.css	/^html{box-sizing:border-box}*,:after,:before{box-sizing:inherit}article,aside,details,figcaption,/;"	s
 ul.fas	docs/html/_static/css/badge_only.css	/^.fa:before{-webkit-font-smoothing:antialiased}.clearfix{*zoom:1}.clearfix:after,.clearfix:before/;"	c
 ul.fas li .fa	docs/html/_static/css/badge_only.css	/^.fa:before{-webkit-font-smoothing:antialiased}.clearfix{*zoom:1}.clearfix:after,.clearfix:before/;"	c
@@ -4964,7 +4753,7 @@ w	docs/html/_static/jquery.js	/^!function(e,t){"use strict";"object"==typeof mod
 w	docs/html/_static/js/html5shiv-printshiv.min.js	/^!function(a,b){function c(a,b){var c=a.createElement("p"),d=a.getElementsByTagName("head")[0]||a/;"	v
 w	docs/html/_static/underscore.js	/^var n="1.13.1",r="object"==typeof self&&self.self===self&&self||"object"==typeof global&&global./;"	f	function:AnonymousFunctiona78fb77c0200
 we	docs/html/_static/jquery.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f
-welcome-to-analog-filters-s-documentation	docs/html/index.html	/^  <div class="section" id="welcome-to-analog-filters-s-documentation">$/;"	I
+welcome-to-analog-filters-documentation	docs/html/index.html	/^  <div class="section" id="welcome-to-analog-filters-documentation">$/;"	I
 where	docs/html/_static/underscore-1.13.1.js	/^  function where(obj, attrs) {$/;"	f	function:AnonymousFunctionc479a98b0200
 window	docs/html/_static/jquery-3.5.1.js	/^		window[ callbackName ] = function() {$/;"	f	function:AnonymousFunction015baf0419000
 winnow	docs/html/_static/jquery-3.5.1.js	/^function winnow( elements, qualifier, not ) {$/;"	f
