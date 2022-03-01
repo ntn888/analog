@@ -20,7 +20,7 @@ jobs:
     # ===============================
     - name: Deploy GitHub Pages
       run: |
-        git worktree add . gh-pages
+        git worktree add gh-pages gh-pages
         git config user.name "Deploy from CI"
         git config user.email ""
         cd gh-pages
