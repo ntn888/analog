@@ -7298,6 +7298,9 @@ TRANSLATIONS	_build/html/_static/doctools.js	/^  TRANSLATIONS : {},$/;"	p	class:
 TRANSLATIONS	docs/_static/doctools.js	/^  TRANSLATIONS : {},$/;"	p	class:Documentation
 Te	_build/html/_static/jquery.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f
 Te	docs/_static/jquery.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f
+Test Math	op/testmath.rst	/^Test Math$/;"	c
+Test Math	_build/html/op/testmath.html	/^<h1>Test Math<a class="headerlink" href="#test-math" title="Permalink to this headline"><\/a>/;"	h
+Test Math	docs/op/testmath.html	/^<h1>Test Math<a class="headerlink" href="#test-math" title="Permalink to this headline"><\/a>/;"	h
 Thrower	_build/html/_static/jquery-3.5.1.js	/^function Thrower( ex ) {$/;"	f
 Thrower	docs/_static/jquery-3.5.1.js	/^function Thrower( ex ) {$/;"	f
 Tn	_build/html/_static/underscore.js	/^var n="1.13.1",r="object"==typeof self&&self.self===self&&self||"object"==typeof global&&global./;"	f	function:AnonymousFunction06239c220200
@@ -7975,6 +7978,7 @@ documentation_options	_build/html/fm/welcome.html	/^        <script data-url_roo
 documentation_options	_build/html/genindex.html	/^        <script data-url_root=".\/" id="documentation_options" src="_static\/documentation_optio/;"	I
 documentation_options	_build/html/index.html	/^        <script data-url_root=".\/" id="documentation_options" src="_static\/documentation_optio/;"	I
 documentation_options	_build/html/op/intro.html	/^        <script data-url_root="..\/" id="documentation_options" src="..\/_static\/documentation_/;"	I
+documentation_options	_build/html/op/testmath.html	/^        <script data-url_root="..\/" id="documentation_options" src="..\/_static\/documentation_/;"	I
 documentation_options	_build/html/search.html	/^        <script data-url_root=".\/" id="documentation_options" src="_static\/documentation_optio/;"	I
 documentation_options	_build/html/sm/intro.html	/^        <script data-url_root="..\/" id="documentation_options" src="..\/_static\/documentation_/;"	I
 documentation_options	docs/ac/intro.html	/^        <script data-url_root="..\/" id="documentation_options" src="..\/_static\/documentation_/;"	I
@@ -7984,6 +7988,7 @@ documentation_options	docs/fm/welcome.html	/^        <script data-url_root="..\/
 documentation_options	docs/genindex.html	/^        <script data-url_root=".\/" id="documentation_options" src="_static\/documentation_optio/;"	I
 documentation_options	docs/index.html	/^        <script data-url_root=".\/" id="documentation_options" src="_static\/documentation_optio/;"	I
 documentation_options	docs/op/intro.html	/^        <script data-url_root="..\/" id="documentation_options" src="..\/_static\/documentation_/;"	I
+documentation_options	docs/op/testmath.html	/^        <script data-url_root="..\/" id="documentation_options" src="..\/_static\/documentation_/;"	I
 documentation_options	docs/search.html	/^        <script data-url_root=".\/" id="documentation_options" src="_static\/documentation_optio/;"	I
 documentation_options	docs/sm/intro.html	/^        <script data-url_root="..\/" id="documentation_options" src="..\/_static\/documentation_/;"	I
 domManip	_build/html/_static/jquery-3.5.1.js	/^function domManip( collection, args, callback, ignored ) {$/;"	f
@@ -8033,6 +8038,8 @@ entli	_build/html/_static/language_data.js	/^    entli: 'ent',$/;"	p	class:Stemm
 entli	docs/_static/language_data.js	/^    entli: 'ent',$/;"	p	class:Stemmer.step2list
 eq	_build/html/_static/underscore-1.13.1.js	/^  function eq(a, b, aStack, bStack) {$/;"	f	function:AnonymousFunction73f517710200
 eq	docs/_static/underscore-1.13.1.js	/^  function eq(a, b, aStack, bStack) {$/;"	f	function:AnonymousFunction8c642f470200
+equation-fourier-transform	_build/html/op/testmath.html	/^<span id="equation-fourier-transform"><\/span><span class="eqno">(1)<a class="headerlink" href="/;"	I
+equation-fourier-transform	docs/op/testmath.html	/^<span id="equation-fourier-transform"><\/span><span class="eqno">(1)<a class="headerlink" href="/;"	I
 escapeChar	_build/html/_static/underscore-1.13.1.js	/^  function escapeChar(match) {$/;"	f	function:AnonymousFunction73f517710200
 escapeChar	docs/_static/underscore-1.13.1.js	/^  function escapeChar(match) {$/;"	f	function:AnonymousFunction8c642f470200
 escapeRegExp	_build/html/_static/searchtools.js	/^  escapeRegExp : function(string) {$/;"	m	class:Search
@@ -8141,6 +8148,8 @@ footer span.commit code	_build/html/_static/css/theme.css	/^ *\/@font-face{font-
 footer span.commit code	docs/_static/css/theme.css	/^ *\/@font-face{font-family:FontAwesome;src:url(fonts\/fontawesome-webfont.eot?674f50d287a8c48dc1/;"	s
 form	_build/html/_static/css/theme.css	/^html{box-sizing:border-box}*,:after,:before{box-sizing:inherit}article,aside,details,figcaption,/;"	s
 form	docs/_static/css/theme.css	/^html{box-sizing:border-box}*,:after,:before{box-sizing:inherit}article,aside,details,figcaption,/;"	s
+fourier-transform	_build/html/op/testmath.html	/^<div class="math notranslate nohighlight" id="fourier-transform">$/;"	I
+fourier-transform	docs/op/testmath.html	/^<div class="math notranslate nohighlight" id="fourier-transform">$/;"	I
 fr	_build/html/_static/underscore.js	/^var n="1.13.1",r="object"==typeof self&&self.self===self&&self||"object"==typeof global&&global./;"	f	function:AnonymousFunction06239c220200
 fr	docs/_static/underscore.js	/^var n="1.13.1",r="object"==typeof self&&self.self===self&&self||"object"==typeof global&&global./;"	f	function:AnonymousFunctiondf6f78b80200
 ft	_build/html/_static/jquery.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f
@@ -9016,6 +9025,7 @@ rtd-search-form	_build/html/fm/welcome.html	/^  <form id="rtd-search-form" class
 rtd-search-form	_build/html/genindex.html	/^  <form id="rtd-search-form" class="wy-form" action="search.html" method="get">$/;"	I
 rtd-search-form	_build/html/index.html	/^  <form id="rtd-search-form" class="wy-form" action="search.html" method="get">$/;"	I
 rtd-search-form	_build/html/op/intro.html	/^  <form id="rtd-search-form" class="wy-form" action="..\/search.html" method="get">$/;"	I
+rtd-search-form	_build/html/op/testmath.html	/^  <form id="rtd-search-form" class="wy-form" action="..\/search.html" method="get">$/;"	I
 rtd-search-form	_build/html/search.html	/^  <form id="rtd-search-form" class="wy-form" action="#" method="get">$/;"	I
 rtd-search-form	_build/html/sm/intro.html	/^  <form id="rtd-search-form" class="wy-form" action="..\/search.html" method="get">$/;"	I
 rtd-search-form	docs/ac/intro.html	/^  <form id="rtd-search-form" class="wy-form" action="..\/search.html" method="get">$/;"	I
@@ -9025,6 +9035,7 @@ rtd-search-form	docs/fm/welcome.html	/^  <form id="rtd-search-form" class="wy-fo
 rtd-search-form	docs/genindex.html	/^  <form id="rtd-search-form" class="wy-form" action="search.html" method="get">$/;"	I
 rtd-search-form	docs/index.html	/^  <form id="rtd-search-form" class="wy-form" action="search.html" method="get">$/;"	I
 rtd-search-form	docs/op/intro.html	/^  <form id="rtd-search-form" class="wy-form" action="..\/search.html" method="get">$/;"	I
+rtd-search-form	docs/op/testmath.html	/^  <form id="rtd-search-form" class="wy-form" action="..\/search.html" method="get">$/;"	I
 rtd-search-form	docs/search.html	/^  <form id="rtd-search-form" class="wy-form" action="#" method="get">$/;"	I
 rtd-search-form	docs/sm/intro.html	/^  <form id="rtd-search-form" class="wy-form" action="..\/search.html" method="get">$/;"	I
 s	_build/html/_static/jquery.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f
@@ -9318,6 +9329,8 @@ template	docs/_static/underscore-1.13.1.js	/^  function template(text, settings,
 templates_path	conf.py	/^templates_path = ['_templates']$/;"	v
 term	_build/html/_static/searchtools.js	/^    term: 5,$/;"	p	class:Scorer
 term	docs/_static/searchtools.js	/^    term: 5,$/;"	p	class:Scorer
+test-math	_build/html/op/testmath.html	/^  <div class="section" id="test-math">$/;"	I
+test-math	docs/op/testmath.html	/^  <div class="section" id="test-math">$/;"	I
 testContext	_build/html/_static/jquery-3.5.1.js	/^function testContext( context ) {$/;"	f
 testContext	docs/_static/jquery-3.5.1.js	/^function testContext( context ) {$/;"	f
 textarea	_build/html/_static/css/theme.css	/^ *\/@font-face{font-family:FontAwesome;src:url(fonts\/fontawesome-webfont.eot?674f50d287a8c48dc1/;"	s
