@@ -8,4 +8,5 @@ As the title holds, we'll be looking at DC analysis in this section.
    :maxdepth: 2
 
    fundamentals
+   basic-quantities
 
