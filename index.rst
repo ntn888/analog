@@ -13,6 +13,7 @@ Welcome to Analog Filters's documentation!
    fm/welcome
 
    dc/intro
+   dc/fundamentals
 
 Indices and tables
 ==================
