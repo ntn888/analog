@@ -23,3 +23,4 @@ github:
 	@make html
 	@rm -rf ./docs/*
 	@cp -a _build/html/. ./docs
+	@touch ./docs/.nojekyll
