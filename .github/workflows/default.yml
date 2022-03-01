@@ -20,7 +20,7 @@ jobs:
     # ===============================
     - name: Commit documentation changes
       run: |
-        git clone https://github.com/ntn888/analog.git --branch gh-pages --single-branch gh-pages
+        git clone https://github.com/ntn888/analog.git
         cp -r _build/html/* gh-pages/
         cd gh-pages
         touch .nojekyll
