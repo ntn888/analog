@@ -48,10 +48,10 @@ exclude_patterns = ['docs', 'Thumbs.db', '.DS_Store']
 # a list of builtin themes.
 #
 html_theme = 'alabaster'
-html_theme_options = {
-        'sidebar_width': '300px',
-        'page_width': '960',
-}
+#html_theme_options = {
+#        'sidebar_width': '300px',
+#        'page_width': '960',
+#}
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,

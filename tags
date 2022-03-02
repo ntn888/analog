@@ -163,7 +163,7 @@ $t	_build/html/_static/jquery.js	/^!function(e,t){"use strict";"object"==typeof 
 >	_build/html/_static/underscore.js	/^var n="1.13.1",r="object"==typeof self&&self.self===self&&self||"object"==typeof global&&global./;"	p	class:AnonymousFunction06239c220200.$n
 A	_build/html/_static/jquery.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f
 A	_build/html/_static/underscore.js	/^var n="1.13.1",r="object"==typeof self&&self.self===self&&self||"object"==typeof global&&global./;"	f	function:AnonymousFunction06239c220200
-AC Electrical Circuit Analysis	ac/intro.rst	/^AC Electrical Circuit Analysis$/;"	c
+AC Circuit Analysis	ac/intro.rst	/^AC Circuit Analysis$/;"	c
 AC Electrical Circuit Analysis¶	_build/html/ac/intro.html	/^<h1>AC Electrical Circuit Analysis<a class="headerlink" href="#ac-electrical-circuit-analysis" t/;"	h
 Ae	_build/html/_static/jquery.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f
 An	_build/html/_static/underscore.js	/^var n="1.13.1",r="object"==typeof self&&self.self===self&&self||"object"==typeof global&&global./;"	f	function:AnonymousFunction06239c220200
@@ -1249,7 +1249,7 @@ Ce	_build/html/_static/jquery.js	/^!function(e,t){"use strict";"object"==typeof 
 Ctor	_build/html/_static/underscore-1.13.1.js	/^    Ctor.prototype = prototype;$/;"	c
 D	_build/html/_static/jquery.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f
 D	_build/html/_static/jquery.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f	function:AnonymousFunction6f3343a82000
-DC Electrical Circuit Analysis	dc/intro.rst	/^DC Electrical Circuit Analysis$/;"	c
+DC Circuit Analysis	dc/intro.rst	/^DC Circuit Analysis$/;"	c
 DC Electrical Circuit Analysis¶	_build/html/dc/intro.html	/^<h1>DC Electrical Circuit Analysis<a class="headerlink" href="#dc-electrical-circuit-analysis" t/;"	h
 DOCUMENTATION_OPTIONS	_build/html/_static/documentation_options.js	/^var DOCUMENTATION_OPTIONS = {$/;"	c
 DOMEval	_build/html/_static/jquery-3.5.1.js	/^	function DOMEval( code, node, doc ) {$/;"	f	function:AnonymousFunction547b552a0100
@@ -1842,7 +1842,6 @@ hr	_build/html/_static/alabaster.css	/^hr {$/;"	s
 htmlToText	_build/html/_static/searchtools.js	/^  htmlToText : function(htmlString) {$/;"	m	class:Search
 html_static_path	conf.py	/^html_static_path = ['_static']$/;"	v
 html_theme	conf.py	/^html_theme = 'alabaster'$/;"	v
-html_theme_options	conf.py	/^html_theme_options = {$/;"	v
 i	_build/html/_static/jquery.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	c	class:AnonymousFunction6f3343a81b200
 i	_build/html/_static/jquery.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	c	class:lt
 i	_build/html/_static/jquery.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f	function:AnonymousFunction6f3343a817700
