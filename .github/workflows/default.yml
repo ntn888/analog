@@ -31,4 +31,11 @@ jobs:
         touch .nojekyll
         git add .
         git commit -m "Deploy $GITHUB_SHA to gh-pages"
-        git push --force 
+        #git push --force 
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        branch: gh-pages
+        directory: gh-pages
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+
