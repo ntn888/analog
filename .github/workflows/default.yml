@@ -11,17 +11,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+     - uses: actions/checkout@v2
     # Publish built docs to gh-pages branch.
     # ===============================
     - name: Deploy GitHub Pages
       run: |
         make clean
         make github
-        #git push --force 
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        branch: gh-pages
-        directory: gh-pages
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-
