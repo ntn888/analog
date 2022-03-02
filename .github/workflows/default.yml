@@ -11,10 +11,15 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v1
+    - uses: actions/checkout@v2
+    - uses: ammaraskar/sphinx-action@master
+      with:
+        docs-folder: "."
+
     # Publish built docs to gh-pages branch.
     # ===============================
     - name: Deploy GitHub Pages
       run: |
-        make clean
-        make github
+        rm -rf ./docs/*
+	mv _build/html/* ./docs
+	touch ./docs/.nojekyll
