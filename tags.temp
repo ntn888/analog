@@ -1841,7 +1841,7 @@ highlightText	_build/html/_static/doctools.js	/^jQuery.fn.highlightText = functi
 hr	_build/html/_static/alabaster.css	/^hr {$/;"	s
 htmlToText	_build/html/_static/searchtools.js	/^  htmlToText : function(htmlString) {$/;"	m	class:Search
 html_static_path	conf.py	/^html_static_path = ['_static']$/;"	v
-html_theme	conf.py	/^html_theme = 'sphinx-book-theme'$/;"	v
+html_theme	conf.py	/^html_theme = 'sphinx_book_theme'$/;"	v
 i	_build/html/_static/jquery.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	c	class:AnonymousFunction6f3343a81b200
 i	_build/html/_static/jquery.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	c	class:lt
 i	_build/html/_static/jquery.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f	function:AnonymousFunction6f3343a817700
