@@ -20,6 +20,6 @@ jobs:
     # ===============================
     - name: Deploy GitHub Pages
       run: |
-        rm -rf ./docs/*
-        cp -a _build/html/. ./docs
+        rm -rf docs/*
+        cp -a _build/html/. ./docs/
         touch ./docs/.nojekyll
