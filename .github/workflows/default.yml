@@ -16,8 +16,6 @@ jobs:
       with:
         docs-folder: "./"
 
-    # Publish built docs to gh-pages branch.
-    # ===============================
     - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4.2.5
         with:
