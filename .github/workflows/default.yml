@@ -11,26 +11,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v1
-    # Standard drop-in approach that should work for most people.
-    - uses: ammaraskar/sphinx-action@master
-      with:
-        docs-folder: "."
     # Publish built docs to gh-pages branch.
     # ===============================
     - name: Deploy GitHub Pages
       run: |
-        git worktree add gh-pages gh-pages
-        git config user.name "GitHub Action"
-        git config user.email ""
-        cd gh-pages
-        # Delete the ref to avoid keeping history.
-        git update-ref -d refs/heads/gh-pages
-        rm -rf *
-        cp -a ../_build/html/* .
-        touch .nojekyll
-        git add .
-        git commit -m "Deploy $GITHUB_SHA to gh-pages"
+        make clean
+        make github
         #git push --force 
     - name: Push changes
       uses: ad-m/github-push-action@master
