@@ -18,8 +18,20 @@ jobs:
 
     # Publish built docs to gh-pages branch.
     # ===============================
-    - name: Deploy GitHub Pages
+    #- name: Deploy GitHub Pages
+    #run: |
+        #rm -rf docs/*
+        #cp -a _build/html/. ./docs/
+        #touch _build/html/.nojekyll
+    - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@v4.2.5
+        with:
+          branch: gh-pages # The branch the action should deploy to.
+          folder: _build/html/ # The folder the action should deploy.
+    - name: Checkout gh-pages
+      uses: actions/checkout@v2
+      with:
+        ref: 'gh-pages'
+    - name: Add nojekyll
       run: |
-        rm -rf docs/*
-        cp -a _build/html/. ./docs/
-        touch ./docs/.nojekyll
+        touch .nojekyll
