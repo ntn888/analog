@@ -21,7 +21,7 @@ jobs:
     - name: Deploy GitHub Pages
       run: |
         git worktree add gh-pages gh-pages
-        git config user.name "Deploy from CI"
+        git config user.name "GitHub Action"
         git config user.email ""
         cd gh-pages
         # Delete the ref to avoid keeping history.
