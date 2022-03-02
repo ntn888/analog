@@ -28,11 +28,4 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4.2.5
         with:
           branch: gh-pages # The branch the action should deploy to.
-          folder: _build/html/ # The folder the action should deploy.
-    - name: Checkout gh-pages
-      uses: actions/checkout@v2
-      with:
-        ref: 'gh-pages'
-    - name: Add nojekyll
-      run: |
-        touch .nojekyll
+          folder: docs # The folder the action should deploy.
