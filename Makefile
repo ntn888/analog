@@ -22,5 +22,5 @@ help:
 github:
 	@make html
 	@rm -rf ./docs/*
-	@mv _build/html/* ./docs
+	@cp -a _build/html/. ./docs
 	@touch ./docs/.nojekyll
