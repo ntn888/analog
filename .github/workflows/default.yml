@@ -15,17 +15,12 @@ jobs:
     - uses: ammaraskar/sphinx-action@master
       with:
         docs-folder: "."
-        build-command: "make github"
+          #build-command: "make github"
 
     # Publish built docs to gh-pages branch.
     # ===============================
-    #- name: Deploy GitHub Pages
-    #run: |
-        #rm -rf docs/*
-        #cp -a _build/html/. ./docs/
-        #touch _build/html/.nojekyll
     - name: copy over
         uses: JamesIves/github-pages-deploy-action@v4.2.5
         with:
           branch: gh-pages # The branch the action should deploy to.
-          folder: docs # The folder the action should deploy.
+          folder: _build/html # The folder the action should deploy.
